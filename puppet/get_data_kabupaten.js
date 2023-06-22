@@ -2,7 +2,10 @@ const { PrismaClient } = require('@prisma/client')
 const getPage = require('./get_page');
 const getData = require('./get_data');
 const prisma = new PrismaClient()
+const notifier = require('node-notifier');
 require('colors');
+
+
 
 async function mainGetDataKabupaten() {
     await prisma.pointer.deleteMany({
@@ -12,6 +15,13 @@ async function mainGetDataKabupaten() {
     })
 
     const page = await getPage();
+
+    notifier.notify({
+        icon: 'icon.png',
+        title: 'Cari Data Kabupaten',
+        message: 'tunggu sampai proses selesai',
+        sound: true,
+    });
     getDataKabupaten(page)
 }
 async function getDataKabupaten(page) {
@@ -21,16 +31,38 @@ async function getDataKabupaten(page) {
 
     const prov = await prisma.prov.findMany();
     await page.goto("https://pemilu2019.kpu.go.id/")
-    await new Promise(resolve => setTimeout(resolve, 3000))
+    await new Promise(resolve => setTimeout(resolve, 5000))
 
-    const [button] = await page.$x(`//button[contains(., '${prov[pointerProv].name}')]`);
+    // const [button] = await page.$x(`//button[contains(., '${prov[pointerProv].name}')]`);
+    const nama = `${prov[pointerProv].name}`
+    const button = await page.evaluate((nama) => {
+        const buttons = document.querySelectorAll('button.clear-button.text-primary.text-left');
+        for (let i = 0; i < buttons.length; i++) {
+            if (buttons[i].textContent.includes(`${nama}`)) {
+                buttons[i].click();
+                return buttons[i];
+            }
+        }
+        return null;
+    }, nama);
+
 
     if (button) {
         console.log("PROVINSI".gray, `${prov[pointerProv].name}`.cyan)
-        await button.click();
-        await new Promise(resolve => setTimeout(resolve, 5000))
+        // await button.click();
+        await new Promise(resolve => setTimeout(resolve, 1000))
         const data = await getData(page);
 
+        // validasi agar data yang didapat tidak sama dengan data provinsi
+        if (prov.length === data.length) {
+            notifier.notify({
+                icon: 'icon.png',
+                title: `Cari Data Kabupaten ${prov[pointerProv].name}`,
+                message: 'cek layar ',
+                sound: true
+            })
+            return console.log(`cek ${prov[pointerProv].name} di layar`.red)
+        }
         let urutan = 0
         for (let itm of data) {
             const kabPro = ("" + prov[pointerProv].id + "" + pointerProv + "" + urutan)
@@ -49,9 +81,10 @@ async function getDataKabupaten(page) {
                     provId: prov[pointerProv].id,
                 }
             })
-            console.log(`save ${itm.name}`.gray)
+            console.log(`${urutan + 1} : ${itm.name}`.gray)
             urutan++
         }
+        console.log("-------------------------------")
 
         if (pointerProv < prov.length - 1) {
             pointerProv++
@@ -71,7 +104,16 @@ async function getDataKabupaten(page) {
         }
     } else {
         console.log("error button not found".red)
+        return
     }
+
+    page.close()
+    notifier.notify({
+        icon: 'icon.png',
+        title: 'Data Kabupaten',
+        message: 'Selesai',
+        sound: true
+    });
 
 }
 

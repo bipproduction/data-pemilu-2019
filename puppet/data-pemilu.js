@@ -8,27 +8,28 @@ const mainGetDataKelurahan = require('./get_data_kelurahan');
 
 const menu = yargs
     .option("prv", {
-        desc: "Provinsi",
+        desc: "Provinsi".gray,
         type: "boolean"
     })
     .option("kab", {
-        desc: "Kabupaten",
+        desc: "Kabupaten".gray,
         type: "boolean"
     })
     .option("kec", {
-        desc: "Kecamatan",
+        desc: "Kecamatan".gray,
         type: "boolean"
     })
     .option("kel", {
-        desc: "Kelurahan",
+        desc: "Kelurahan".gray,
         type: "boolean"
     })
     .strict(true)
-    .epilog("Malikkurosaki@2023 - github.com/malikkurosaki")
+    .usage("Usage: node $0 --prv | --kab | --kec | --kel".gray)
+    .example("node $0 --prv".gray)
+    .epilog("Malikkurosaki@2023 - github.com/malikkurosaki".gray)
     .argv;
 
 if (_.keys(menu).length === 2) return console.log(`${menu.$0} -h | --help - for help`.red)
-
 if (menu.prv) return mainGetDataProvince()
 if (menu.kab) return mainGetDataKabupaten()
 if (menu.kec) return mainGetDataKecamatan()
