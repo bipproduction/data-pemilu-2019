@@ -41,7 +41,7 @@ async function getDataKecamatan(page) {
     // temukan tombol profinsi dari data provinsi
 
     // const [buttonProv] = await page.$x(`//button[contains(., '${prov[pointerProv].name}')]`);
-    
+
 
     const buttonProv = await getButton(page, prov[pointerProv].name)
     console.log("PROVINSI".gray, `${prov[pointerProv].name}`.cyan)
@@ -62,7 +62,7 @@ async function getDataKecamatan(page) {
 
         // temukan tombol kabupaten
         // const [buttonKab] = await page.$x(`//button[contains(., '${dataKab[pointerKab].name}')]`);
-        
+
 
         const buttonKab = await getButton(page, dataKab[pointerKab].name)
         console.log("KABUPATEN".gray, `${dataKab[pointerKab].name}`.cyan)
@@ -75,6 +75,8 @@ async function getDataKecamatan(page) {
 
             // ambil data kecamatan
             const kec = await getData(page);
+
+            if (kec.length === 0) return console.log("DATA KOSONG".red)
 
             let urutan = 0
             for (let itm of kec) {
@@ -98,7 +100,7 @@ async function getDataKecamatan(page) {
                         kabId: dataKab[pointerKab].id,
                     }
                 })
-                console.log(`${urutan+1} : ${itm.name}`.gray)
+                console.log(`${urutan + 1} : ${itm.name}`.gray)
                 urutan++
             }
             console.log("========================")
