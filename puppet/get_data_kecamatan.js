@@ -1,6 +1,7 @@
 const { PrismaClient } = require('@prisma/client')
 const getPage = require('./get_page');
 const getData = require('./get_data');
+const getButton = require('./get_button');
 const prisma = new PrismaClient();
 require('colors');
 
@@ -39,12 +40,15 @@ async function getDataKecamatan(page) {
 
     // temukan tombol profinsi dari data provinsi
 
-    const [buttonProv] = await page.$x(`//button[contains(., '${prov[pointerProv].name}')]`);
+    // const [buttonProv] = await page.$x(`//button[contains(., '${prov[pointerProv].name}')]`);
+    
+
+    const buttonProv = await getButton(page, prov[pointerProv].name)
     console.log("PROVINSI".gray, `${prov[pointerProv].name}`.cyan)
 
     // lanjutkan proses jika tombol ditemukan
     if (buttonProv) {
-        await buttonProv.click();
+        // await buttonProv.click();
 
         // tunggu satu detik diharapkan componen cumcul
         await new Promise(resolve => setTimeout(resolve, 1000))
@@ -57,11 +61,14 @@ async function getDataKecamatan(page) {
         })
 
         // temukan tombol kabupaten
-        const [buttonKab] = await page.$x(`//button[contains(., '${dataKab[pointerKab].name}')]`);
+        // const [buttonKab] = await page.$x(`//button[contains(., '${dataKab[pointerKab].name}')]`);
+        
+
+        const buttonKab = await getButton(page, dataKab[pointerKab].name)
         console.log("KABUPATEN".gray, `${dataKab[pointerKab].name}`.cyan)
 
         if (buttonKab) {
-            await buttonKab.click();
+            // await buttonKab.click();
 
             // tunggu satu detik , diharapkan component data muncul
             await new Promise(resolve => setTimeout(resolve, 1000))
@@ -91,7 +98,7 @@ async function getDataKecamatan(page) {
                         kabId: dataKab[pointerKab].id,
                     }
                 })
-                console.log(`${urutan} : ${itm.name}`.gray)
+                console.log(`${urutan+1} : ${itm.name}`.gray)
                 urutan++
             }
             console.log("========================")

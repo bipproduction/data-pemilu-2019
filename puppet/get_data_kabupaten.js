@@ -3,6 +3,7 @@ const getPage = require('./get_page');
 const getData = require('./get_data');
 const prisma = new PrismaClient()
 const notifier = require('node-notifier');
+const getButton = require('./get_button');
 require('colors');
 
 
@@ -34,18 +35,19 @@ async function getDataKabupaten(page) {
     await new Promise(resolve => setTimeout(resolve, 5000))
 
     // const [button] = await page.$x(`//button[contains(., '${prov[pointerProv].name}')]`);
-    const nama = `${prov[pointerProv].name}`
-    const button = await page.evaluate((nama) => {
-        const buttons = document.querySelectorAll('button.clear-button.text-primary.text-left');
-        for (let i = 0; i < buttons.length; i++) {
-            if (buttons[i].textContent.includes(`${nama}`)) {
-                buttons[i].click();
-                return buttons[i];
-            }
-        }
-        return null;
-    }, nama);
+    // const nama = `${prov[pointerProv].name}`
+    // const button = await page.evaluate((nama) => {
+    //     const buttons = document.querySelectorAll('button.clear-button.text-primary.text-left');
+    //     for (let i = 0; i < buttons.length; i++) {
+    //         if (buttons[i].textContent.includes(`${nama}`)) {
+    //             buttons[i].click();
+    //             return buttons[i];
+    //         }
+    //     }
+    //     return null;
+    // }, nama);
 
+    const button = await getButton(page, prov[pointerProv].name);
 
     if (button) {
         console.log("PROVINSI".gray, `${prov[pointerProv].name}`.cyan)
