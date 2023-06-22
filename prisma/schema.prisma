@@ -16,7 +16,7 @@ model Prov {
   value1 String?
   value2 String?
   Kab    Kab[]
-  urut   Int?     @unique
+  urut   Int?    @unique
 }
 
 model Kab {
@@ -27,8 +27,8 @@ model Kab {
   value1 String?
   value2 String?
   Kec    Kec[]
-  kabPro String?  @unique
-  urut   Int?     @unique
+  kabPro String? @unique
+  urut   Int?    @unique
 }
 
 model Kec {
@@ -39,8 +39,8 @@ model Kec {
   value1 String?
   value2 String?
   Kel    Kel[]
-  kecKab String?  @unique
-  urut   Int?     @unique
+  kecKab String? @unique
+  urut   Int?    @unique
 }
 
 model Kel {
@@ -50,6 +50,14 @@ model Kel {
   kecId  Int?
   value1 String?
   value2 String?
-  kelKab String?  @unique
-  urut   Int?     @unique
+  kelKec String? @unique
+  urut   Int?    @unique
+}
+
+model Pointer {
+  id          Int  @id @default(autoincrement())
+  pointerProv Int @default(0)
+  pointerKab  Int @default(0)
+  pointerKec  Int @default(0)
+  pointerKel  Int @default(0)
 }

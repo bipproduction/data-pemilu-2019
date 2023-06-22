@@ -1,15 +1,27 @@
 const { PrismaClient } = require('@prisma/client')
 const getPage = require('./get_page');
 const getData = require('./get_data');
-const prisma = new PrismaClient()
-require('colors')
+const prisma = new PrismaClient();
+require('colors');
 
 
-let pointerProv = 0
-let pointerKab = 0
-async function getKecamatan() {
-    const prov = await prisma.prov.findMany();
+async function mainGetDataKecamatan() {
+    await prisma.pointer.deleteMany({
+        where: {
+            id: 1
+        }
+    })
     const page = await getPage();
+    getDataKecamatan(page)
+}
+
+async function getDataKecamatan(page) {
+
+    const pointer = await prisma.pointer.findUnique({ where: { id: 1 } })
+    let pointerProv = pointer ? pointer.pointerProv : 0
+    let pointerKab = pointer ? pointer.pointerKab : 0
+
+    const prov = await prisma.prov.findMany();
 
     await page.goto("https://pemilu2019.kpu.go.id/")
     await new Promise(resolve => setTimeout(resolve, 3000))
@@ -52,27 +64,56 @@ async function getKecamatan() {
                 urutan++
             }
 
+
             if (pointerKab < dataKab.length - 1) {
                 pointerKab++
-                return await getKecamatan()
+                await prisma.pointer.upsert({
+                    where: {
+                        id: 1
+                    },
+                    update: {
+                        pointerKab: pointerKab
+                    },
+                    create: {
+                        id: 1,
+                        pointerKab: pointerKab
+                    }
+                })
+                return await getDataKecamatan(page)
             } else {
                 pointerKab = 0
-                return await getKecamatan()
+                await prisma.pointer.upsert({
+                    where: {
+                        id: 1
+                    },
+                    update: {
+                        pointerKab: pointerKab
+                    },
+                    create: {
+                        id: 1,
+                        pointerKab: pointerKab
+                    }
+                })
+                return await getDataKecamatan(page)
             }
 
         }
 
-        // let urutan = 0
-        // for (let itm of dataKab) {
-
-
-
-        //     urutan++
-        // }
-
         if (pointerProv < prov.length - 1) {
             pointerProv++
-            return await getKecamatan()
+            await prisma.pointer.upsert({
+                where: {
+                    id: 1
+                },
+                update: {
+                    pointerProv: pointerProv
+                },
+                create: {
+                    id: 1,
+                    pointerProv: pointerProv
+                }
+            })
+            return await getDataKecamatan(page)
         }
     } else {
         console.log("error button not found".red)
@@ -80,5 +121,4 @@ async function getKecamatan() {
 
 }
 
-getKecamatan();
-module.exports = getKecamatan
+module.exports = mainGetDataKecamatan

@@ -1,34 +1,42 @@
 const _ = require('lodash')
 const getData = require('./get_data')
-const {PrismaClient} = require('@prisma/client')
-const prisma = new PrismaClient()
+const { PrismaClient } = require('@prisma/client')
+const getPage = require('./get_page')
+const prisma = new PrismaClient();
+require('colors');
 
+async function mainGetDataProvince() {
+    console.log("get data province".yellow)
+    const page = await getPage();
+    await getDataProvince(page);
+}
 
 async function getDataProvince(page) {
-    console.log("get data province".yellow)
+
+    await page.goto("https://pemilu2019.kpu.go.id/")
+    await new Promise(resolve => setTimeout(resolve, 3000))
+
     const data = await getData(page);
-
-    for (let itm in data) {
-        if (!data[itm].name.includes("+")) {
-            const id = +itm + 1
-
-            await prisma.prov.upsert({
-                where: { id: id },
-                update: {
-                    name: data[itm].name
-                },
-                create: {
-                    id: id,
-                    name: data[itm].name,
-                    value1: data[itm].value1,
-                    value2: data[itm].value2
-                },
-            })
-        }
-
+    let id = 1;
+    for (let itm of data) {
+        await prisma.prov.upsert({
+            where: { id: id },
+            update: {
+                name: itm.name
+            },
+            create: {
+                id: id,
+                name: itm.name,
+                value1: itm.value1,
+                value2: itm.value2
+            },
+        })
+        id++
+        console.log("save ".gray, `${itm.name}`.cyan)
     }
 
     console.log("cuccess".green)
 }
 
-module.exports = getDataProvince
+
+module.exports = mainGetDataProvince
