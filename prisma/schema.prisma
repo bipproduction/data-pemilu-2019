@@ -1,0 +1,55 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model Prov {
+  id     Int     @id @default(autoincrement())
+  name   String?
+  value1 String?
+  value2 String?
+  Kab    Kab[]
+  urut   Int?     @unique
+}
+
+model Kab {
+  id     Int     @id @default(autoincrement())
+  name   String?
+  Prov   Prov?   @relation(fields: [provId], references: [id])
+  provId Int?
+  value1 String?
+  value2 String?
+  Kec    Kec[]
+  kabPro String?  @unique
+  urut   Int?     @unique
+}
+
+model Kec {
+  id     Int     @id @default(autoincrement())
+  name   String?
+  Kab    Kab?    @relation(fields: [kabId], references: [id])
+  kabId  Int?
+  value1 String?
+  value2 String?
+  Kel    Kel[]
+  kecKab String?  @unique
+  urut   Int?     @unique
+}
+
+model Kel {
+  id     Int     @id @default(autoincrement())
+  name   String?
+  Kec    Kec?    @relation(fields: [kecId], references: [id])
+  kecId  Int?
+  value1 String?
+  value2 String?
+  kelKab String?  @unique
+  urut   Int?     @unique
+}

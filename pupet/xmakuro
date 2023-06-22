@@ -1,0 +1,13 @@
+echo "PILIH MENU: "
+select menu in satu dua tiga empat
+do 
+case $menu in 
+	"satu")
+	echo "ini adalah ${menu}"
+	;;
+	*)
+	echo "infalid"
+	break
+	;;
+esac
+done

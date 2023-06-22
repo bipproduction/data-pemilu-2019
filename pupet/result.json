@@ -1,0 +1,3136 @@
+[
+  {
+    "no": 1,
+    "name": "ACEH",
+    "value1": "404.188",
+    "value2": "2.400.746",
+    "kab": [
+      {
+        "name": "ACEH BARAT",
+        "value1": "15.823",
+        "value2": "97.388"
+      },
+      {
+        "name": "ACEH BARAT DAYA",
+        "value1": "8.800",
+        "value2": "76.689"
+      },
+      {
+        "name": "ACEH BESAR",
+        "value1": "19.321",
+        "value2": "204.103"
+      },
+      {
+        "name": "ACEH JAYA",
+        "value1": "5.640",
+        "value2": "47.827"
+      },
+      {
+        "name": "ACEH SELATAN",
+        "value1": "12.568",
+        "value2": "120.516"
+      },
+      {
+        "name": "ACEH SINGKIL",
+        "value1": "18.379",
+        "value2": "48.342"
+      },
+      {
+        "name": "ACEH TAMIANG",
+        "value1": "24.062",
+        "value2": "130.786"
+      },
+      {
+        "name": "ACEH TENGAH",
+        "value1": "47.464",
+        "value2": "73.503"
+      },
+      {
+        "name": "ACEH TENGGARA",
+        "value1": "34.039",
+        "value2": "91.689"
+      },
+      {
+        "name": "ACEH TIMUR",
+        "value1": "21.413",
+        "value2": "178.143"
+      },
+      {
+        "name": "ACEH UTARA",
+        "value1": "23.959",
+        "value2": "285.920"
+      },
+      {
+        "name": "BENER MERIAH",
+        "value1": "36.500",
+        "value2": "53.343"
+      },
+      {
+        "name": "BIREUEN",
+        "value1": "15.642",
+        "value2": "213.650"
+      },
+      {
+        "name": "GAYO LUES",
+        "value1": "18.774",
+        "value2": "35.449"
+      },
+      {
+        "name": "KOTA BANDA ACEH",
+        "value1": "15.103",
+        "value2": "106.872"
+      },
+      {
+        "name": "KOTA LANGSA",
+        "value1": "10.383",
+        "value2": "81.537"
+      },
+      {
+        "name": "KOTA LHOKSEUMAWE",
+        "value1": "8.042",
+        "value2": "87.396"
+      },
+      {
+        "name": "KOTA SABANG",
+        "value1": "2.731",
+        "value2": "19.173"
+      },
+      {
+        "name": "KOTA SUBULUSSALAM",
+        "value1": "9.366",
+        "value2": "39.099"
+      },
+      {
+        "name": "NAGAN RAYA",
+        "value1": "12.994",
+        "value2": "87.011"
+      },
+      {
+        "name": "PIDIE",
+        "value1": "17.753",
+        "value2": "210.436"
+      },
+      {
+        "name": "PIDIE JAYA",
+        "value1": "6.644",
+        "value2": "80.826"
+      },
+      {
+        "name": "SIMEULUE",
+        "value1": "18.788",
+        "value2": "31.048"
+      }
+    ]
+  },
+  {
+    "no": 2,
+    "name": "SUMATERA UTARA",
+    "value1": "3.936.515",
+    "value2": "3.587.786",
+    "kab": [
+      {
+        "name": "ASAHAN",
+        "value1": "157.741",
+        "value2": "236.809"
+      },
+      {
+        "name": "BATU BARA",
+        "value1": "95.563",
+        "value2": "128.782"
+      },
+      {
+        "name": "DAIRI",
+        "value1": "145.368",
+        "value2": "16.995"
+      },
+      {
+        "name": "DELI SERDANG",
+        "value1": "446.285",
+        "value2": "528.968"
+      },
+      {
+        "name": "HUMBANG HASUNDUTAN",
+        "value1": "98.696",
+        "value2": "4.664"
+      },
+      {
+        "name": "KARO",
+        "value1": "203.047",
+        "value2": "17.470"
+      },
+      {
+        "name": "KOTA BINJAI",
+        "value1": "55.813",
+        "value2": "99.753"
+      },
+      {
+        "name": "KOTA GUNUNGSITOLI",
+        "value1": "58.057",
+        "value2": "9.924"
+      },
+      {
+        "name": "KOTA MEDAN",
+        "value1": "542.221",
+        "value2": "645.209"
+      },
+      {
+        "name": "KOTA PADANG SIDEMPUAN",
+        "value1": "25.039",
+        "value2": "91.742"
+      },
+      {
+        "name": "KOTA PEMATANGSIANTAR",
+        "value1": "106.627",
+        "value2": "37.753"
+      },
+      {
+        "name": "KOTA SIBOLGA",
+        "value1": "29.796",
+        "value2": "20.888"
+      },
+      {
+        "name": "KOTA TANJUNG BALAI",
+        "value1": "25.405",
+        "value2": "65.525"
+      },
+      {
+        "name": "KOTA TEBING TINGGI",
+        "value1": "42.494",
+        "value2": "53.591"
+      },
+      {
+        "name": "LABUHANBATU",
+        "value1": "83.985",
+        "value2": "158.409"
+      },
+      {
+        "name": "LABUHANBATU SELATAN",
+        "value1": "68.005",
+        "value2": "96.307"
+      },
+      {
+        "name": "LABUHANBATU UTARA",
+        "value1": "81.842",
+        "value2": "113.654"
+      },
+      {
+        "name": "LANGKAT",
+        "value1": "237.532",
+        "value2": "328.944"
+      },
+      {
+        "name": "MANDAILING NATAL",
+        "value1": "41.536",
+        "value2": "195.387"
+      },
+      {
+        "name": "NIAS",
+        "value1": "61.156",
+        "value2": "4.038"
+      },
+      {
+        "name": "NIAS BARAT",
+        "value1": "35.793",
+        "value2": "2.553"
+      },
+      {
+        "name": "NIAS SELATAN",
+        "value1": "127.923",
+        "value2": "8.181"
+      },
+      {
+        "name": "NIAS UTARA",
+        "value1": "52.464",
+        "value2": "7.731"
+      },
+      {
+        "name": "PADANG LAWAS",
+        "value1": "29.212",
+        "value2": "105.974"
+      },
+      {
+        "name": "PADANG LAWAS UTARA",
+        "value1": "38.747",
+        "value2": "94.164"
+      },
+      {
+        "name": "PAKPAK BHARAT",
+        "value1": "19.680",
+        "value2": "8.911"
+      },
+      {
+        "name": "SAMOSIR",
+        "value1": "72.289",
+        "value2": "1.426"
+      },
+      {
+        "name": "SERDANG BEDAGAI",
+        "value1": "174.426",
+        "value2": "187.527"
+      },
+      {
+        "name": "SIMALUNGUN",
+        "value1": "335.032",
+        "value2": "156.745"
+      },
+      {
+        "name": "TAPANULI SELATAN",
+        "value1": "61.457",
+        "value2": "103.173"
+      },
+      {
+        "name": "TAPANULI TENGAH",
+        "value1": "129.149",
+        "value2": "42.558"
+      },
+      {
+        "name": "TAPANULI UTARA",
+        "value1": "152.500",
+        "value2": "9.559"
+      },
+      {
+        "name": "TOBA SAMOSIR",
+        "value1": "101.635",
+        "value2": "4.472"
+      }
+    ]
+  },
+  {
+    "no": 3,
+    "name": "SUMATERA BARAT",
+    "value1": "407.761",
+    "value2": "2.488.733",
+    "kab": [
+      {
+        "name": "AGAM",
+        "value1": "25.520",
+        "value2": "231.561"
+      },
+      {
+        "name": "DHARMASRAYA",
+        "value1": "38.773",
+        "value2": "87.568"
+      },
+      {
+        "name": "KEPULAUAN MENTAWAI",
+        "value1": "41.116",
+        "value2": "9.211"
+      },
+      {
+        "name": "KOTA BUKITTINGGI",
+        "value1": "7.896",
+        "value2": "55.011"
+      },
+      {
+        "name": "KOTA PADANG",
+        "value1": "63.491",
+        "value2": "406.698"
+      },
+      {
+        "name": "KOTA PADANG PANJANG",
+        "value1": "3.993",
+        "value2": "27.645"
+      },
+      {
+        "name": "KOTA PARIAMAN",
+        "value1": "4.200",
+        "value2": "47.042"
+      },
+      {
+        "name": "KOTA PAYAKUMBUH",
+        "value1": "9.564",
+        "value2": "64.408"
+      },
+      {
+        "name": "KOTA SAWAHLUNTO",
+        "value1": "7.077",
+        "value2": "31.341"
+      },
+      {
+        "name": "KOTA SOLOK",
+        "value1": "4.955",
+        "value2": "35.610"
+      },
+      {
+        "name": "LIMA PULUH KOTA",
+        "value1": "25.662",
+        "value2": "185.265"
+      },
+      {
+        "name": "PADANG PARIAMAN",
+        "value1": "20.587",
+        "value2": "193.899"
+      },
+      {
+        "name": "PASAMAN",
+        "value1": "13.642",
+        "value2": "146.717"
+      },
+      {
+        "name": "PASAMAN BARAT",
+        "value1": "34.418",
+        "value2": "183.643"
+      },
+      {
+        "name": "PESISIR SELATAN",
+        "value1": "36.900",
+        "value2": "230.042"
+      },
+      {
+        "name": "SIJUNJUNG",
+        "value1": "15.705",
+        "value2": "110.012"
+      },
+      {
+        "name": "SOLOK",
+        "value1": "17.865",
+        "value2": "188.198"
+      },
+      {
+        "name": "SOLOK SELATAN",
+        "value1": "14.124",
+        "value2": "79.007"
+      },
+      {
+        "name": "TANAH DATAR",
+        "value1": "22.273",
+        "value2": "175.855"
+      }
+    ]
+  },
+  {
+    "no": 4,
+    "name": "RIAU",
+    "value1": "1.248.713",
+    "value2": "1.975.287",
+    "kab": [
+      {
+        "name": "BENGKALIS",
+        "value1": "137.260",
+        "value2": "179.654"
+      },
+      {
+        "name": "INDRAGIRI HILIR",
+        "value1": "134.433",
+        "value2": "202.862"
+      },
+      {
+        "name": "INDRAGIRI HULU",
+        "value1": "100.569",
+        "value2": "134.386"
+      },
+      {
+        "name": "KAMPAR",
+        "value1": "123.274",
+        "value2": "284.082"
+      },
+      {
+        "name": "KEPULAUAN MERANTI",
+        "value1": "49.625",
+        "value2": "54.227"
+      },
+      {
+        "name": "KOTA DUMAI",
+        "value1": "66.334",
+        "value2": "92.373"
+      },
+      {
+        "name": "KOTA PEKANBARU",
+        "value1": "126.247",
+        "value2": "352.417"
+      },
+      {
+        "name": "KUANTAN SINGINGI",
+        "value1": "61.226",
+        "value2": "126.434"
+      },
+      {
+        "name": "PELALAWAN",
+        "value1": "83.716",
+        "value2": "97.660"
+      },
+      {
+        "name": "ROKAN HILIR",
+        "value1": "148.215",
+        "value2": "165.639"
+      },
+      {
+        "name": "ROKAN HULU",
+        "value1": "112.839",
+        "value2": "160.064"
+      },
+      {
+        "name": "SIAK",
+        "value1": "104.975",
+        "value2": "125.489"
+      }
+    ]
+  },
+  {
+    "no": 5,
+    "name": "JAMBI",
+    "value1": "859.833",
+    "value2": "1.203.025",
+    "kab": [
+      {
+        "name": "BATANGHARI",
+        "value1": "69.076",
+        "value2": "93.058"
+      },
+      {
+        "name": "BUNGO",
+        "value1": "67.998",
+        "value2": "136.159"
+      },
+      {
+        "name": "KERINCI",
+        "value1": "43.069",
+        "value2": "121.192"
+      },
+      {
+        "name": "KOTA JAMBI",
+        "value1": "142.254",
+        "value2": "199.339"
+      },
+      {
+        "name": "KOTA SUNGAI PENUH",
+        "value1": "9.179",
+        "value2": "46.438"
+      },
+      {
+        "name": "MERANGIN",
+        "value1": "82.511",
+        "value2": "139.381"
+      },
+      {
+        "name": "MUARO JAMBI",
+        "value1": "125.191",
+        "value2": "109.829"
+      },
+      {
+        "name": "SAROLANGUN",
+        "value1": "62.196",
+        "value2": "105.668"
+      },
+      {
+        "name": "TANJUNG JABUNG BARAT",
+        "value1": "87.977",
+        "value2": "86.277"
+      },
+      {
+        "name": "TANJUNG JABUNG TIMUR",
+        "value1": "78.087",
+        "value2": "60.346"
+      },
+      {
+        "name": "TEBO",
+        "value1": "92.295",
+        "value2": "105.338"
+      }
+    ]
+  },
+  {
+    "no": 6,
+    "name": "SUMATERA SELATAN",
+    "value1": "1.942.987",
+    "value2": "2.877.781",
+    "kab": [
+      {
+        "name": "BANYUASIN",
+        "value1": "236.121",
+        "value2": "232.273"
+      },
+      {
+        "name": "EMPAT LAWANG",
+        "value1": "42.686",
+        "value2": "108.047"
+      },
+      {
+        "name": "KOTA LUBUKLINGGAU",
+        "value1": "40.954",
+        "value2": "90.988"
+      },
+      {
+        "name": "KOTA PAGAR ALAM",
+        "value1": "40.846",
+        "value2": "49.298"
+      },
+      {
+        "name": "KOTA PALEMBANG",
+        "value1": "350.539",
+        "value2": "559.422"
+      },
+      {
+        "name": "KOTA PRABUMULIH",
+        "value1": "40.579",
+        "value2": "71.780"
+      },
+      {
+        "name": "LAHAT",
+        "value1": "72.228",
+        "value2": "180.988"
+      },
+      {
+        "name": "MUARA ENIM",
+        "value1": "123.783",
+        "value2": "227.333"
+      },
+      {
+        "name": "MUSI BANYUASIN",
+        "value1": "158.823",
+        "value2": "204.179"
+      },
+      {
+        "name": "MUSI RAWAS",
+        "value1": "99.097",
+        "value2": "141.807"
+      },
+      {
+        "name": "MUSI RAWAS UTARA",
+        "value1": "44.441",
+        "value2": "77.768"
+      },
+      {
+        "name": "OGAN ILIR",
+        "value1": "96.457",
+        "value2": "143.800"
+      },
+      {
+        "name": "OGAN KOMERING ILIR",
+        "value1": "207.926",
+        "value2": "224.727"
+      },
+      {
+        "name": "OGAN KOMERING ULU",
+        "value1": "52.098",
+        "value2": "162.594"
+      },
+      {
+        "name": "OGAN KOMERING ULU SELATAN",
+        "value1": "106.675",
+        "value2": "116.955"
+      },
+      {
+        "name": "OGAN KOMERING ULU TIMUR",
+        "value1": "183.816",
+        "value2": "220.590"
+      },
+      {
+        "name": "PENUKAL ABAB LEMATANG ILIR",
+        "value1": "45.918",
+        "value2": "65.232"
+      }
+    ]
+  },
+  {
+    "no": 7,
+    "name": "BENGKULU",
+    "value1": "583.488",
+    "value2": "585.999",
+    "kab": [
+      {
+        "name": "BENGKULU SELATAN",
+        "value1": "51.416",
+        "value2": "47.402"
+      },
+      {
+        "name": "BENGKULU TENGAH",
+        "value1": "34.724",
+        "value2": "36.957"
+      },
+      {
+        "name": "BENGKULU UTARA",
+        "value1": "106.500",
+        "value2": "70.788"
+      },
+      {
+        "name": "KAUR",
+        "value1": "39.457",
+        "value2": "36.334"
+      },
+      {
+        "name": "KEPAHIANG",
+        "value1": "40.745",
+        "value2": "48.958"
+      },
+      {
+        "name": "KOTA BENGKULU",
+        "value1": "87.218",
+        "value2": "113.138"
+      },
+      {
+        "name": "LEBONG",
+        "value1": "36.286",
+        "value2": "29.965"
+      },
+      {
+        "name": "MUKOMUKO",
+        "value1": "57.341",
+        "value2": "51.490"
+      },
+      {
+        "name": "REJANG LEBONG",
+        "value1": "69.543",
+        "value2": "90.540"
+      },
+      {
+        "name": "SELUMA",
+        "value1": "60.258",
+        "value2": "60.427"
+      }
+    ]
+  },
+  {
+    "no": 8,
+    "name": "LAMPUNG",
+    "value1": "2.853.585",
+    "value2": "1.955.689",
+    "kab": [
+      {
+        "name": "ACEH",
+        "value1": "404.188",
+        "value2": "2.400.746"
+      },
+      {
+        "name": "SUMATERA UTARA",
+        "value1": "3.936.515",
+        "value2": "3.587.786"
+      },
+      {
+        "name": "SUMATERA BARAT",
+        "value1": "407.761",
+        "value2": "2.488.733"
+      },
+      {
+        "name": "RIAU",
+        "value1": "1.248.713",
+        "value2": "1.975.287"
+      },
+      {
+        "name": "JAMBI",
+        "value1": "859.833",
+        "value2": "1.203.025"
+      },
+      {
+        "name": "SUMATERA SELATAN",
+        "value1": "1.942.987",
+        "value2": "2.877.781"
+      },
+      {
+        "name": "BENGKULU",
+        "value1": "583.488",
+        "value2": "585.999"
+      },
+      {
+        "name": "LAMPUNG",
+        "value1": "2.853.585",
+        "value2": "1.955.689"
+      },
+      {
+        "name": "KEPULAUAN BANGKA BELITUNG",
+        "value1": "495.729",
+        "value2": "288.235"
+      },
+      {
+        "name": "KEPULAUAN RIAU",
+        "value1": "550.692",
+        "value2": "465.511"
+      },
+      {
+        "name": "DKI JAKARTA",
+        "value1": "3.279.547",
+        "value2": "3.066.137"
+      },
+      {
+        "name": "JAWA BARAT",
+        "value1": "10.750.568",
+        "value2": "16.077.446"
+      },
+      {
+        "name": "JAWA TENGAH",
+        "value1": "16.825.511",
+        "value2": "4.944.447"
+      },
+      {
+        "name": "DAERAH ISTIMEWA YOGYAKARTA",
+        "value1": "1.655.174",
+        "value2": "742.481"
+      },
+      {
+        "name": "JAWA TIMUR",
+        "value1": "16.231.668",
+        "value2": "8.441.247"
+      },
+      {
+        "name": "BANTEN",
+        "value1": "2.537.524",
+        "value2": "4.059.514"
+      },
+      {
+        "name": "BALI",
+        "value1": "2.351.057",
+        "value2": "213.415"
+      },
+      {
+        "name": "NUSA TENGGARA BARAT",
+        "value1": "951.242",
+        "value2": "2.011.319"
+      },
+      {
+        "name": "NUSA TENGGARA TIMUR",
+        "value1": "2.368.982",
+        "value2": "305.587"
+      },
+      {
+        "name": "KALIMANTAN BARAT",
+        "value1": "1.709.896",
+        "value2": "1.263.757"
+      },
+      {
+        "name": "KALIMANTAN TENGAH",
+        "value1": "830.948",
+        "value2": "537.138"
+      },
+      {
+        "name": "KALIMANTAN SELATAN",
+        "value1": "823.939",
+        "value2": "1.470.163"
+      },
+      {
+        "name": "KALIMANTAN TIMUR",
+        "value1": "1.094.845",
+        "value2": "870.443"
+      },
+      {
+        "name": "SULAWESI UTARA",
+        "value1": "1.220.524",
+        "value2": "359.685"
+      },
+      {
+        "name": "SULAWESI TENGAH",
+        "value1": "914.588",
+        "value2": "706.654"
+      },
+      {
+        "name": "SULAWESI SELATAN",
+        "value1": "2.117.591",
+        "value2": "2.809.393"
+      },
+      {
+        "name": "SULAWESI TENGGARA",
+        "value1": "555.664",
+        "value2": "842.117"
+      },
+      {
+        "name": "GORONTALO",
+        "value1": "369.803",
+        "value2": "345.129"
+      },
+      {
+        "name": "SULAWESI BARAT",
+        "value1": "475.312",
+        "value2": "263.620"
+      },
+      {
+        "name": "MALUKU",
+        "value1": "599.457",
+        "value2": "392.940"
+      },
+      {
+        "name": "MALUKU UTARA",
+        "value1": "310.548",
+        "value2": "344.823"
+      },
+      {
+        "name": "PAPUA",
+        "value1": "3.021.713",
+        "value2": "311.352"
+      },
+      {
+        "name": "PAPUA BARAT",
+        "value1": "508.997",
+        "value2": "128.732"
+      },
+      {
+        "name": "KALIMANTAN UTARA",
+        "value1": "248.239",
+        "value2": "106.162"
+      },
+      {
+        "name": "+Luar Negeri",
+        "value1": "570.534",
+        "value2": "207.746"
+      }
+    ]
+  },
+  {
+    "no": 9,
+    "name": "KEPULAUAN BANGKA BELITUNG",
+    "value1": "495.729",
+    "value2": "288.235",
+    "kab": [
+      {
+        "name": "BANGKA",
+        "value1": "97.043",
+        "value2": "75.073"
+      },
+      {
+        "name": "BANGKA BARAT",
+        "value1": "71.535",
+        "value2": "38.002"
+      },
+      {
+        "name": "BANGKA SELATAN",
+        "value1": "68.536",
+        "value2": "39.342"
+      },
+      {
+        "name": "BANGKA TENGAH",
+        "value1": "63.320",
+        "value2": "39.131"
+      },
+      {
+        "name": "BELITUNG",
+        "value1": "77.823",
+        "value2": "28.304"
+      },
+      {
+        "name": "BELITUNG TIMUR",
+        "value1": "56.353",
+        "value2": "15.919"
+      },
+      {
+        "name": "KOTA PANGKALPINANG",
+        "value1": "61.119",
+        "value2": "52.464"
+      }
+    ]
+  },
+  {
+    "no": 10,
+    "name": "KEPULAUAN RIAU",
+    "value1": "550.692",
+    "value2": "465.511",
+    "kab": [
+      {
+        "name": "BINTAN",
+        "value1": "50.494",
+        "value2": "37.087"
+      },
+      {
+        "name": "KARIMUN",
+        "value1": "70.783",
+        "value2": "59.884"
+      },
+      {
+        "name": "KEPULAUAN ANAMBAS",
+        "value1": "17.240",
+        "value2": "8.867"
+      },
+      {
+        "name": "KOTA BATAM",
+        "value1": "286.833",
+        "value2": "269.358"
+      },
+      {
+        "name": "KOTA TANJUNGPINANG",
+        "value1": "63.099",
+        "value2": "53.437"
+      },
+      {
+        "name": "LINGGA",
+        "value1": "34.319",
+        "value2": "20.811"
+      },
+      {
+        "name": "NATUNA",
+        "value1": "27.924",
+        "value2": "16.067"
+      }
+    ]
+  },
+  {
+    "no": 11,
+    "name": "DKI JAKARTA",
+    "value1": "3.279.547",
+    "value2": "3.066.137",
+    "kab": [
+      {
+        "name": "ACEH",
+        "value1": "404.188",
+        "value2": "2.400.746"
+      },
+      {
+        "name": "SUMATERA UTARA",
+        "value1": "3.936.515",
+        "value2": "3.587.786"
+      },
+      {
+        "name": "SUMATERA BARAT",
+        "value1": "407.761",
+        "value2": "2.488.733"
+      },
+      {
+        "name": "RIAU",
+        "value1": "1.248.713",
+        "value2": "1.975.287"
+      },
+      {
+        "name": "JAMBI",
+        "value1": "859.833",
+        "value2": "1.203.025"
+      },
+      {
+        "name": "SUMATERA SELATAN",
+        "value1": "1.942.987",
+        "value2": "2.877.781"
+      },
+      {
+        "name": "BENGKULU",
+        "value1": "583.488",
+        "value2": "585.999"
+      },
+      {
+        "name": "LAMPUNG",
+        "value1": "2.853.585",
+        "value2": "1.955.689"
+      },
+      {
+        "name": "KEPULAUAN BANGKA BELITUNG",
+        "value1": "495.729",
+        "value2": "288.235"
+      },
+      {
+        "name": "KEPULAUAN RIAU",
+        "value1": "550.692",
+        "value2": "465.511"
+      },
+      {
+        "name": "DKI JAKARTA",
+        "value1": "3.279.547",
+        "value2": "3.066.137"
+      },
+      {
+        "name": "JAWA BARAT",
+        "value1": "10.750.568",
+        "value2": "16.077.446"
+      },
+      {
+        "name": "JAWA TENGAH",
+        "value1": "16.825.511",
+        "value2": "4.944.447"
+      },
+      {
+        "name": "DAERAH ISTIMEWA YOGYAKARTA",
+        "value1": "1.655.174",
+        "value2": "742.481"
+      },
+      {
+        "name": "JAWA TIMUR",
+        "value1": "16.231.668",
+        "value2": "8.441.247"
+      },
+      {
+        "name": "BANTEN",
+        "value1": "2.537.524",
+        "value2": "4.059.514"
+      },
+      {
+        "name": "BALI",
+        "value1": "2.351.057",
+        "value2": "213.415"
+      },
+      {
+        "name": "NUSA TENGGARA BARAT",
+        "value1": "951.242",
+        "value2": "2.011.319"
+      },
+      {
+        "name": "NUSA TENGGARA TIMUR",
+        "value1": "2.368.982",
+        "value2": "305.587"
+      },
+      {
+        "name": "KALIMANTAN BARAT",
+        "value1": "1.709.896",
+        "value2": "1.263.757"
+      },
+      {
+        "name": "KALIMANTAN TENGAH",
+        "value1": "830.948",
+        "value2": "537.138"
+      },
+      {
+        "name": "KALIMANTAN SELATAN",
+        "value1": "823.939",
+        "value2": "1.470.163"
+      },
+      {
+        "name": "KALIMANTAN TIMUR",
+        "value1": "1.094.845",
+        "value2": "870.443"
+      },
+      {
+        "name": "SULAWESI UTARA",
+        "value1": "1.220.524",
+        "value2": "359.685"
+      },
+      {
+        "name": "SULAWESI TENGAH",
+        "value1": "914.588",
+        "value2": "706.654"
+      },
+      {
+        "name": "SULAWESI SELATAN",
+        "value1": "2.117.591",
+        "value2": "2.809.393"
+      },
+      {
+        "name": "SULAWESI TENGGARA",
+        "value1": "555.664",
+        "value2": "842.117"
+      },
+      {
+        "name": "GORONTALO",
+        "value1": "369.803",
+        "value2": "345.129"
+      },
+      {
+        "name": "SULAWESI BARAT",
+        "value1": "475.312",
+        "value2": "263.620"
+      },
+      {
+        "name": "MALUKU",
+        "value1": "599.457",
+        "value2": "392.940"
+      },
+      {
+        "name": "MALUKU UTARA",
+        "value1": "310.548",
+        "value2": "344.823"
+      },
+      {
+        "name": "PAPUA",
+        "value1": "3.021.713",
+        "value2": "311.352"
+      },
+      {
+        "name": "PAPUA BARAT",
+        "value1": "508.997",
+        "value2": "128.732"
+      },
+      {
+        "name": "KALIMANTAN UTARA",
+        "value1": "248.239",
+        "value2": "106.162"
+      },
+      {
+        "name": "+Luar Negeri",
+        "value1": "570.534",
+        "value2": "207.746"
+      }
+    ]
+  },
+  {
+    "no": 12,
+    "name": "JAWA BARAT",
+    "value1": "10.750.568",
+    "value2": "16.077.446",
+    "kab": [
+      {
+        "name": "ACEH",
+        "value1": "404.188",
+        "value2": "2.400.746"
+      },
+      {
+        "name": "SUMATERA UTARA",
+        "value1": "3.936.515",
+        "value2": "3.587.786"
+      },
+      {
+        "name": "SUMATERA BARAT",
+        "value1": "407.761",
+        "value2": "2.488.733"
+      },
+      {
+        "name": "RIAU",
+        "value1": "1.248.713",
+        "value2": "1.975.287"
+      },
+      {
+        "name": "JAMBI",
+        "value1": "859.833",
+        "value2": "1.203.025"
+      },
+      {
+        "name": "SUMATERA SELATAN",
+        "value1": "1.942.987",
+        "value2": "2.877.781"
+      },
+      {
+        "name": "BENGKULU",
+        "value1": "583.488",
+        "value2": "585.999"
+      },
+      {
+        "name": "LAMPUNG",
+        "value1": "2.853.585",
+        "value2": "1.955.689"
+      },
+      {
+        "name": "KEPULAUAN BANGKA BELITUNG",
+        "value1": "495.729",
+        "value2": "288.235"
+      },
+      {
+        "name": "KEPULAUAN RIAU",
+        "value1": "550.692",
+        "value2": "465.511"
+      },
+      {
+        "name": "DKI JAKARTA",
+        "value1": "3.279.547",
+        "value2": "3.066.137"
+      },
+      {
+        "name": "JAWA BARAT",
+        "value1": "10.750.568",
+        "value2": "16.077.446"
+      },
+      {
+        "name": "JAWA TENGAH",
+        "value1": "16.825.511",
+        "value2": "4.944.447"
+      },
+      {
+        "name": "DAERAH ISTIMEWA YOGYAKARTA",
+        "value1": "1.655.174",
+        "value2": "742.481"
+      },
+      {
+        "name": "JAWA TIMUR",
+        "value1": "16.231.668",
+        "value2": "8.441.247"
+      },
+      {
+        "name": "BANTEN",
+        "value1": "2.537.524",
+        "value2": "4.059.514"
+      },
+      {
+        "name": "BALI",
+        "value1": "2.351.057",
+        "value2": "213.415"
+      },
+      {
+        "name": "NUSA TENGGARA BARAT",
+        "value1": "951.242",
+        "value2": "2.011.319"
+      },
+      {
+        "name": "NUSA TENGGARA TIMUR",
+        "value1": "2.368.982",
+        "value2": "305.587"
+      },
+      {
+        "name": "KALIMANTAN BARAT",
+        "value1": "1.709.896",
+        "value2": "1.263.757"
+      },
+      {
+        "name": "KALIMANTAN TENGAH",
+        "value1": "830.948",
+        "value2": "537.138"
+      },
+      {
+        "name": "KALIMANTAN SELATAN",
+        "value1": "823.939",
+        "value2": "1.470.163"
+      },
+      {
+        "name": "KALIMANTAN TIMUR",
+        "value1": "1.094.845",
+        "value2": "870.443"
+      },
+      {
+        "name": "SULAWESI UTARA",
+        "value1": "1.220.524",
+        "value2": "359.685"
+      },
+      {
+        "name": "SULAWESI TENGAH",
+        "value1": "914.588",
+        "value2": "706.654"
+      },
+      {
+        "name": "SULAWESI SELATAN",
+        "value1": "2.117.591",
+        "value2": "2.809.393"
+      },
+      {
+        "name": "SULAWESI TENGGARA",
+        "value1": "555.664",
+        "value2": "842.117"
+      },
+      {
+        "name": "GORONTALO",
+        "value1": "369.803",
+        "value2": "345.129"
+      },
+      {
+        "name": "SULAWESI BARAT",
+        "value1": "475.312",
+        "value2": "263.620"
+      },
+      {
+        "name": "MALUKU",
+        "value1": "599.457",
+        "value2": "392.940"
+      },
+      {
+        "name": "MALUKU UTARA",
+        "value1": "310.548",
+        "value2": "344.823"
+      },
+      {
+        "name": "PAPUA",
+        "value1": "3.021.713",
+        "value2": "311.352"
+      },
+      {
+        "name": "PAPUA BARAT",
+        "value1": "508.997",
+        "value2": "128.732"
+      },
+      {
+        "name": "KALIMANTAN UTARA",
+        "value1": "248.239",
+        "value2": "106.162"
+      },
+      {
+        "name": "+Luar Negeri",
+        "value1": "570.534",
+        "value2": "207.746"
+      }
+    ]
+  },
+  {
+    "no": 13,
+    "name": "JAWA TENGAH",
+    "value1": "16.825.511",
+    "value2": "4.944.447",
+    "kab": [
+      {
+        "name": "BANJARNEGARA",
+        "value1": "410.658",
+        "value2": "171.233"
+      },
+      {
+        "name": "BANYUMAS",
+        "value1": "792.150",
+        "value2": "274.618"
+      },
+      {
+        "name": "BATANG",
+        "value1": "395.779",
+        "value2": "91.996"
+      },
+      {
+        "name": "BLORA",
+        "value1": "448.575",
+        "value2": "104.699"
+      },
+      {
+        "name": "BOYOLALI",
+        "value1": "581.477",
+        "value2": "94.464"
+      },
+      {
+        "name": "BREBES",
+        "value1": "739.743",
+        "value2": "318.233"
+      },
+      {
+        "name": "CILACAP",
+        "value1": "775.304",
+        "value2": "289.706"
+      },
+      {
+        "name": "DEMAK",
+        "value1": "545.562",
+        "value2": "161.249"
+      },
+      {
+        "name": "GROBOGAN",
+        "value1": "735.446",
+        "value2": "124.977"
+      },
+      {
+        "name": "JEPARA",
+        "value1": "595.368",
+        "value2": "114.668"
+      },
+      {
+        "name": "KARANGANYAR",
+        "value1": "464.301",
+        "value2": "114.453"
+      },
+      {
+        "name": "KEBUMEN",
+        "value1": "545.742",
+        "value2": "209.010"
+      },
+      {
+        "name": "KENDAL",
+        "value1": "493.100",
+        "value2": "134.639"
+      },
+      {
+        "name": "KLATEN",
+        "value1": "647.486",
+        "value2": "164.990"
+      },
+      {
+        "name": "KOTA MAGELANG",
+        "value1": "56.143",
+        "value2": "25.268"
+      },
+      {
+        "name": "KOTA PEKALONGAN",
+        "value1": "138.319",
+        "value2": "49.784"
+      },
+      {
+        "name": "KOTA SALATIGA",
+        "value1": "94.727",
+        "value2": "26.595"
+      },
+      {
+        "name": "KOTA SEMARANG",
+        "value1": "781.471",
+        "value2": "220.766"
+      },
+      {
+        "name": "KOTA SURAKARTA",
+        "value1": "301.995",
+        "value2": "65.271"
+      },
+      {
+        "name": "KOTA TEGAL",
+        "value1": "97.004",
+        "value2": "58.788"
+      },
+      {
+        "name": "KUDUS",
+        "value1": "407.983",
+        "value2": "123.815"
+      },
+      {
+        "name": "MAGELANG",
+        "value1": "601.147",
+        "value2": "230.540"
+      },
+      {
+        "name": "PATI",
+        "value1": "698.276",
+        "value2": "115.851"
+      },
+      {
+        "name": "PEKALONGAN",
+        "value1": "447.207",
+        "value2": "111.657"
+      },
+      {
+        "name": "PEMALANG",
+        "value1": "595.759",
+        "value2": "194.216"
+      },
+      {
+        "name": "PURBALINGGA",
+        "value1": "420.065",
+        "value2": "152.695"
+      },
+      {
+        "name": "PURWOREJO",
+        "value1": "342.173",
+        "value2": "121.325"
+      },
+      {
+        "name": "REMBANG",
+        "value1": "320.793",
+        "value2": "87.819"
+      },
+      {
+        "name": "SEMARANG",
+        "value1": "536.938",
+        "value2": "122.698"
+      },
+      {
+        "name": "SRAGEN",
+        "value1": "485.538",
+        "value2": "114.358"
+      },
+      {
+        "name": "SUKOHARJO",
+        "value1": "424.891",
+        "value2": "127.224"
+      },
+      {
+        "name": "TEGAL",
+        "value1": "549.992",
+        "value2": "319.685"
+      },
+      {
+        "name": "TEMANGGUNG",
+        "value1": "412.957",
+        "value2": "102.160"
+      },
+      {
+        "name": "WONOGIRI",
+        "value1": "528.377",
+        "value2": "97.162"
+      },
+      {
+        "name": "WONOSOBO",
+        "value1": "413.065",
+        "value2": "107.835"
+      }
+    ]
+  },
+  {
+    "no": 14,
+    "name": "DAERAH ISTIMEWA YOGYAKARTA",
+    "value1": "1.655.174",
+    "value2": "742.481",
+    "kab": [
+      {
+        "name": "BANTUL",
+        "value1": "427.755",
+        "value2": "202.815"
+      },
+      {
+        "name": "GUNUNGKIDUL",
+        "value1": "379.653",
+        "value2": "116.366"
+      },
+      {
+        "name": "KOTA YOGYAKARTA",
+        "value1": "179.048",
+        "value2": "92.166"
+      },
+      {
+        "name": "KULON PROGO",
+        "value1": "192.772",
+        "value2": "92.917"
+      },
+      {
+        "name": "SLEMAN",
+        "value1": "475.946",
+        "value2": "238.217"
+      }
+    ]
+  },
+  {
+    "no": 15,
+    "name": "JAWA TIMUR",
+    "value1": "16.231.668",
+    "value2": "8.441.247",
+    "kab": [
+      {
+        "name": "BANGKALAN",
+        "value1": "440.129",
+        "value2": "322.131"
+      },
+      {
+        "name": "BANYUWANGI",
+        "value1": "711.117",
+        "value2": "273.543"
+      },
+      {
+        "name": "BLITAR",
+        "value1": "638.096",
+        "value2": "110.751"
+      },
+      {
+        "name": "BOJONEGORO",
+        "value1": "560.695",
+        "value2": "273.461"
+      },
+      {
+        "name": "BONDOWOSO",
+        "value1": "213.887",
+        "value2": "277.677"
+      },
+      {
+        "name": "GRESIK",
+        "value1": "506.307",
+        "value2": "252.515"
+      },
+      {
+        "name": "JEMBER",
+        "value1": "891.208",
+        "value2": "483.786"
+      },
+      {
+        "name": "JOMBANG",
+        "value1": "615.972",
+        "value2": "187.763"
+      },
+      {
+        "name": "KEDIRI",
+        "value1": "815.883",
+        "value2": "173.098"
+      },
+      {
+        "name": "KOTA BATU",
+        "value1": "101.288",
+        "value2": "35.470"
+      },
+      {
+        "name": "KOTA BLITAR",
+        "value1": "73.660",
+        "value2": "21.086"
+      },
+      {
+        "name": "KOTA KEDIRI",
+        "value1": "143.991",
+        "value2": "38.955"
+      },
+      {
+        "name": "KOTA MADIUN",
+        "value1": "84.998",
+        "value2": "34.069"
+      },
+      {
+        "name": "KOTA MALANG",
+        "value1": "345.695",
+        "value2": "168.001"
+      },
+      {
+        "name": "KOTA MOJOKERTO",
+        "value1": "60.858",
+        "value2": "24.819"
+      },
+      {
+        "name": "KOTA PASURUAN",
+        "value1": "71.351",
+        "value2": "53.943"
+      },
+      {
+        "name": "KOTA PROBOLINGGO",
+        "value1": "85.184",
+        "value2": "60.431"
+      },
+      {
+        "name": "KOTA SURABAYA",
+        "value1": "1.124.966",
+        "value2": "478.439"
+      },
+      {
+        "name": "LAMONGAN",
+        "value1": "515.751",
+        "value2": "282.300"
+      },
+      {
+        "name": "LUMAJANG",
+        "value1": "386.281",
+        "value2": "265.333"
+      },
+      {
+        "name": "MADIUN",
+        "value1": "333.938",
+        "value2": "113.418"
+      },
+      {
+        "name": "MAGETAN",
+        "value1": "286.038",
+        "value2": "136.383"
+      },
+      {
+        "name": "MALANG",
+        "value1": "1.179.241",
+        "value2": "386.001"
+      },
+      {
+        "name": "MOJOKERTO",
+        "value1": "531.637",
+        "value2": "165.131"
+      },
+      {
+        "name": "NGANJUK",
+        "value1": "541.179",
+        "value2": "131.953"
+      },
+      {
+        "name": "NGAWI",
+        "value1": "424.178",
+        "value2": "118.860"
+      },
+      {
+        "name": "PACITAN",
+        "value1": "116.196",
+        "value2": "230.810"
+      },
+      {
+        "name": "PAMEKASAN",
+        "value1": "102.931",
+        "value2": "531.561"
+      },
+      {
+        "name": "PASURUAN",
+        "value1": "589.372",
+        "value2": "378.130"
+      },
+      {
+        "name": "PONOROGO",
+        "value1": "422.016",
+        "value2": "166.716"
+      },
+      {
+        "name": "PROBOLINGGO",
+        "value1": "431.273",
+        "value2": "279.196"
+      },
+      {
+        "name": "SAMPANG",
+        "value1": "187.189",
+        "value2": "570.597"
+      },
+      {
+        "name": "SIDOARJO",
+        "value1": "817.853",
+        "value2": "350.788"
+      },
+      {
+        "name": "SITUBONDO",
+        "value1": "202.789",
+        "value2": "203.812"
+      },
+      {
+        "name": "SUMENEP",
+        "value1": "242.305",
+        "value2": "436.931"
+      },
+      {
+        "name": "TRENGGALEK",
+        "value1": "351.868",
+        "value2": "105.036"
+      },
+      {
+        "name": "TUBAN",
+        "value1": "533.704",
+        "value2": "196.103"
+      },
+      {
+        "name": "TULUNGAGUNG",
+        "value1": "550.644",
+        "value2": "122.250"
+      }
+    ]
+  },
+  {
+    "no": 16,
+    "name": "BANTEN",
+    "value1": "2.537.524",
+    "value2": "4.059.514",
+    "kab": [
+      {
+        "name": "KOTA CILEGON",
+        "value1": "76.455",
+        "value2": "177.568"
+      },
+      {
+        "name": "KOTA SERANG",
+        "value1": "116.702",
+        "value2": "266.505"
+      },
+      {
+        "name": "KOTA TANGERANG",
+        "value1": "464.992",
+        "value2": "562.963"
+      },
+      {
+        "name": "KOTA TANGERANG SELATAN",
+        "value1": "411.030",
+        "value2": "390.370"
+      },
+      {
+        "name": "LEBAK",
+        "value1": "260.148",
+        "value2": "489.793"
+      },
+      {
+        "name": "PANDEGLANG",
+        "value1": "263.523",
+        "value2": "443.323"
+      },
+      {
+        "name": "SERANG",
+        "value1": "275.251",
+        "value2": "649.982"
+      },
+      {
+        "name": "TANGERANG",
+        "value1": "669.423",
+        "value2": "1.079.010"
+      }
+    ]
+  },
+  {
+    "no": 17,
+    "name": "BALI",
+    "value1": "2.351.057",
+    "value2": "213.415",
+    "kab": [
+      {
+        "name": "BADUNG",
+        "value1": "312.813",
+        "value2": "23.357"
+      },
+      {
+        "name": "BANGLI",
+        "value1": "149.453",
+        "value2": "8.938"
+      },
+      {
+        "name": "BULELENG",
+        "value1": "383.571",
+        "value2": "46.161"
+      },
+      {
+        "name": "GIANYAR",
+        "value1": "318.536",
+        "value2": "12.627"
+      },
+      {
+        "name": "JEMBRANA",
+        "value1": "153.126",
+        "value2": "33.829"
+      },
+      {
+        "name": "KARANGASEM",
+        "value1": "274.861",
+        "value2": "20.549"
+      },
+      {
+        "name": "KLUNGKUNG",
+        "value1": "118.237",
+        "value2": "10.486"
+      },
+      {
+        "name": "KOTA DENPASAR",
+        "value1": "338.019",
+        "value2": "39.455"
+      },
+      {
+        "name": "TABANAN",
+        "value1": "302.441",
+        "value2": "18.013"
+      }
+    ]
+  },
+  {
+    "no": 18,
+    "name": "NUSA TENGGARA BARAT",
+    "value1": "951.242",
+    "value2": "2.011.319",
+    "kab": [
+      {
+        "name": "BIMA",
+        "value1": "43.556",
+        "value2": "240.083"
+      },
+      {
+        "name": "DOMPU",
+        "value1": "37.767",
+        "value2": "104.192"
+      },
+      {
+        "name": "KOTA BIMA",
+        "value1": "15.644",
+        "value2": "75.576"
+      },
+      {
+        "name": "KOTA MATARAM",
+        "value1": "91.417",
+        "value2": "156.413"
+      },
+      {
+        "name": "LOMBOK BARAT",
+        "value1": "106.322",
+        "value2": "294.638"
+      },
+      {
+        "name": "LOMBOK TENGAH",
+        "value1": "169.565",
+        "value2": "421.653"
+      },
+      {
+        "name": "LOMBOK TIMUR",
+        "value1": "281.160",
+        "value2": "427.670"
+      },
+      {
+        "name": "LOMBOK UTARA",
+        "value1": "70.812",
+        "value2": "71.183"
+      },
+      {
+        "name": "SUMBAWA",
+        "value1": "105.358",
+        "value2": "170.746"
+      },
+      {
+        "name": "SUMBAWA BARAT",
+        "value1": "29.641",
+        "value2": "49.165"
+      }
+    ]
+  },
+  {
+    "no": 19,
+    "name": "NUSA TENGGARA TIMUR",
+    "value1": "2.368.982",
+    "value2": "305.587",
+    "kab": [
+      {
+        "name": "ALOR",
+        "value1": "85.393",
+        "value2": "29.248"
+      },
+      {
+        "name": "BELU",
+        "value1": "82.116",
+        "value2": "17.360"
+      },
+      {
+        "name": "ENDE",
+        "value1": "114.650",
+        "value2": "32.249"
+      },
+      {
+        "name": "FLORES TIMUR",
+        "value1": "109.779",
+        "value2": "21.537"
+      },
+      {
+        "name": "KOTA KUPANG",
+        "value1": "176.839",
+        "value2": "22.621"
+      },
+      {
+        "name": "KUPANG",
+        "value1": "162.076",
+        "value2": "15.843"
+      },
+      {
+        "name": "LEMBATA",
+        "value1": "54.080",
+        "value2": "12.994"
+      },
+      {
+        "name": "MALAKA",
+        "value1": "80.706",
+        "value2": "9.279"
+      },
+      {
+        "name": "MANGGARAI",
+        "value1": "149.171",
+        "value2": "14.093"
+      },
+      {
+        "name": "MANGGARAI BARAT",
+        "value1": "112.171",
+        "value2": "24.018"
+      },
+      {
+        "name": "MANGGARAI TIMUR",
+        "value1": "132.190",
+        "value2": "16.283"
+      },
+      {
+        "name": "NAGEKEO",
+        "value1": "72.535",
+        "value2": "6.884"
+      },
+      {
+        "name": "NGADA",
+        "value1": "76.502",
+        "value2": "7.099"
+      },
+      {
+        "name": "ROTE NDAO",
+        "value1": "64.035",
+        "value2": "5.321"
+      },
+      {
+        "name": "SABU RAIJUA",
+        "value1": "39.088",
+        "value2": "1.945"
+      },
+      {
+        "name": "SIKKA",
+        "value1": "152.470",
+        "value2": "17.123"
+      },
+      {
+        "name": "SUMBA BARAT",
+        "value1": "54.206",
+        "value2": "5.054"
+      },
+      {
+        "name": "SUMBA BARAT DAYA",
+        "value1": "164.490",
+        "value2": "7.310"
+      },
+      {
+        "name": "SUMBA TENGAH",
+        "value1": "34.894",
+        "value2": "3.113"
+      },
+      {
+        "name": "SUMBA TIMUR",
+        "value1": "119.628",
+        "value2": "10.569"
+      },
+      {
+        "name": "TIMOR TENGAH SELATAN",
+        "value1": "213.198",
+        "value2": "14.251"
+      },
+      {
+        "name": "TIMOR TENGAH UTARA",
+        "value1": "118.765",
+        "value2": "11.393"
+      }
+    ]
+  },
+  {
+    "no": 20,
+    "name": "KALIMANTAN BARAT",
+    "value1": "1.709.896",
+    "value2": "1.263.757",
+    "kab": [
+      {
+        "name": "BENGKAYANG",
+        "value1": "107.505",
+        "value2": "30.344"
+      },
+      {
+        "name": "KAPUAS HULU",
+        "value1": "89.607",
+        "value2": "59.916"
+      },
+      {
+        "name": "KAYONG UTARA",
+        "value1": "25.527",
+        "value2": "38.471"
+      },
+      {
+        "name": "KETAPANG",
+        "value1": "165.852",
+        "value2": "124.183"
+      },
+      {
+        "name": "KOTA PONTIANAK",
+        "value1": "133.484",
+        "value2": "237.301"
+      },
+      {
+        "name": "KOTA SINGKAWANG",
+        "value1": "64.425",
+        "value2": "50.181"
+      },
+      {
+        "name": "KUBU RAYA",
+        "value1": "121.462",
+        "value2": "218.300"
+      },
+      {
+        "name": "LANDAK",
+        "value1": "212.961",
+        "value2": "33.702"
+      },
+      {
+        "name": "MELAWI",
+        "value1": "81.400",
+        "value2": "64.527"
+      },
+      {
+        "name": "MEMPAWAH",
+        "value1": "54.946",
+        "value2": "98.370"
+      },
+      {
+        "name": "SAMBAS",
+        "value1": "167.711",
+        "value2": "135.383"
+      },
+      {
+        "name": "SANGGAU",
+        "value1": "202.856",
+        "value2": "66.266"
+      },
+      {
+        "name": "SEKADAU",
+        "value1": "91.565",
+        "value2": "36.675"
+      },
+      {
+        "name": "SINTANG",
+        "value1": "190.595",
+        "value2": "70.138"
+      }
+    ]
+  },
+  {
+    "no": 21,
+    "name": "KALIMANTAN TENGAH",
+    "value1": "830.948",
+    "value2": "537.138",
+    "kab": [
+      {
+        "name": "BARITO SELATAN",
+        "value1": "44.110",
+        "value2": "33.370"
+      },
+      {
+        "name": "BARITO TIMUR",
+        "value1": "43.148",
+        "value2": "23.950"
+      },
+      {
+        "name": "BARITO UTARA",
+        "value1": "46.161",
+        "value2": "31.436"
+      },
+      {
+        "name": "GUNUNG MAS",
+        "value1": "54.247",
+        "value2": "9.110"
+      },
+      {
+        "name": "KAPUAS",
+        "value1": "94.911",
+        "value2": "99.107"
+      },
+      {
+        "name": "KATINGAN",
+        "value1": "66.828",
+        "value2": "21.284"
+      },
+      {
+        "name": "KOTA PALANGKARAYA",
+        "value1": "89.027",
+        "value2": "61.001"
+      },
+      {
+        "name": "KOTAWARINGIN BARAT",
+        "value1": "79.626",
+        "value2": "61.568"
+      },
+      {
+        "name": "KOTAWARINGIN TIMUR",
+        "value1": "114.364",
+        "value2": "93.859"
+      },
+      {
+        "name": "LAMANDAU",
+        "value1": "38.155",
+        "value2": "10.606"
+      },
+      {
+        "name": "MURUNG RAYA",
+        "value1": "33.526",
+        "value2": "29.949"
+      },
+      {
+        "name": "PULANG PISAU",
+        "value1": "50.047",
+        "value2": "26.092"
+      },
+      {
+        "name": "SERUYAN",
+        "value1": "54.672",
+        "value2": "24.577"
+      },
+      {
+        "name": "SUKAMARA",
+        "value1": "22.126",
+        "value2": "11.229"
+      }
+    ]
+  },
+  {
+    "no": 22,
+    "name": "KALIMANTAN SELATAN",
+    "value1": "823.939",
+    "value2": "1.470.163",
+    "kab": [
+      {
+        "name": "BALANGAN",
+        "value1": "21.472",
+        "value2": "54.440"
+      },
+      {
+        "name": "BANJAR",
+        "value1": "102.315",
+        "value2": "216.767"
+      },
+      {
+        "name": "BARITO KUALA",
+        "value1": "66.022",
+        "value2": "109.484"
+      },
+      {
+        "name": "HULU SUNGAI SELATAN",
+        "value1": "36.629",
+        "value2": "96.020"
+      },
+      {
+        "name": "HULU SUNGAI TENGAH",
+        "value1": "29.946",
+        "value2": "126.338"
+      },
+      {
+        "name": "HULU SUNGAI UTARA",
+        "value1": "34.535",
+        "value2": "93.929"
+      },
+      {
+        "name": "KOTA BANJARBARU",
+        "value1": "57.126",
+        "value2": "74.955"
+      },
+      {
+        "name": "KOTA BANJARMASIN",
+        "value1": "130.760",
+        "value2": "230.687"
+      },
+      {
+        "name": "KOTABARU",
+        "value1": "91.141",
+        "value2": "79.963"
+      },
+      {
+        "name": "TABALONG",
+        "value1": "44.082",
+        "value2": "100.462"
+      },
+      {
+        "name": "TANAH BUMBU",
+        "value1": "91.151",
+        "value2": "94.703"
+      },
+      {
+        "name": "TANAH LAUT",
+        "value1": "88.000",
+        "value2": "107.051"
+      },
+      {
+        "name": "TAPIN",
+        "value1": "30.760",
+        "value2": "85.364"
+      }
+    ]
+  },
+  {
+    "no": 23,
+    "name": "KALIMANTAN TIMUR",
+    "value1": "1.094.845",
+    "value2": "870.443",
+    "kab": [
+      {
+        "name": "BERAU",
+        "value1": "78.348",
+        "value2": "49.100"
+      },
+      {
+        "name": "KOTA BALIKPAPAN",
+        "value1": "199.737",
+        "value2": "165.413"
+      },
+      {
+        "name": "KOTA BONTANG",
+        "value1": "53.927",
+        "value2": "45.121"
+      },
+      {
+        "name": "KOTA SAMARINDA",
+        "value1": "209.208",
+        "value2": "231.570"
+      },
+      {
+        "name": "KUTAI BARAT",
+        "value1": "74.066",
+        "value2": "17.265"
+      },
+      {
+        "name": "KUTAI KARTANEGARA",
+        "value1": "215.055",
+        "value2": "172.609"
+      },
+      {
+        "name": "KUTAI TIMUR",
+        "value1": "124.567",
+        "value2": "61.676"
+      },
+      {
+        "name": "MAHAKAM ULU",
+        "value1": "16.046",
+        "value2": "2.662"
+      },
+      {
+        "name": "PASER",
+        "value1": "68.293",
+        "value2": "81.382"
+      },
+      {
+        "name": "PENAJAM PASER UTARA",
+        "value1": "55.598",
+        "value2": "43.645"
+      }
+    ]
+  },
+  {
+    "no": 24,
+    "name": "SULAWESI UTARA",
+    "value1": "1.220.524",
+    "value2": "359.685",
+    "kab": [
+      {
+        "name": "BOLAANG MONGONDOW",
+        "value1": "85.227",
+        "value2": "63.058"
+      },
+      {
+        "name": "BOLAANG MONGONDOW SELATAN",
+        "value1": "17.486",
+        "value2": "24.909"
+      },
+      {
+        "name": "BOLAANG MONGONDOW TIMUR",
+        "value1": "24.099",
+        "value2": "24.797"
+      },
+      {
+        "name": "BOLAANG MONGONDOW UTARA",
+        "value1": "25.638",
+        "value2": "24.553"
+      },
+      {
+        "name": "KEPULAUAN SANGIHE",
+        "value1": "70.492",
+        "value2": "15.765"
+      },
+      {
+        "name": "KEPULAUAN SIAU TAGULANDANG BIARO",
+        "value1": "38.401",
+        "value2": "7.120"
+      },
+      {
+        "name": "KEPULAUAN TALAUD",
+        "value1": "52.678",
+        "value2": "5.218"
+      },
+      {
+        "name": "KOTA BITUNG",
+        "value1": "98.367",
+        "value2": "21.396"
+      },
+      {
+        "name": "KOTA KOTAMOBAGU",
+        "value1": "28.822",
+        "value2": "43.877"
+      },
+      {
+        "name": "KOTA MANADO",
+        "value1": "214.738",
+        "value2": "51.981"
+      },
+      {
+        "name": "KOTA TOMOHON",
+        "value1": "59.871",
+        "value2": "5.364"
+      },
+      {
+        "name": "MINAHASA",
+        "value1": "198.790",
+        "value2": "22.320"
+      },
+      {
+        "name": "MINAHASA SELATAN",
+        "value1": "129.690",
+        "value2": "17.002"
+      },
+      {
+        "name": "MINAHASA TENGGARA",
+        "value1": "62.471",
+        "value2": "13.293"
+      },
+      {
+        "name": "MINAHASA UTARA",
+        "value1": "113.754",
+        "value2": "19.032"
+      }
+    ]
+  },
+  {
+    "no": 25,
+    "name": "SULAWESI TENGAH",
+    "value1": "914.588",
+    "value2": "706.654",
+    "kab": [
+      {
+        "name": "BANGGAI",
+        "value1": "126.479",
+        "value2": "76.801"
+      },
+      {
+        "name": "BANGGAI KEPULAUAN",
+        "value1": "38.696",
+        "value2": "30.620"
+      },
+      {
+        "name": "BANGGAI LAUT",
+        "value1": "19.405",
+        "value2": "20.526"
+      },
+      {
+        "name": "BUOL",
+        "value1": "40.556",
+        "value2": "41.854"
+      },
+      {
+        "name": "DONGGALA",
+        "value1": "99.749",
+        "value2": "64.159"
+      },
+      {
+        "name": "KOTA PALU",
+        "value1": "77.547",
+        "value2": "104.154"
+      },
+      {
+        "name": "MOROWALI",
+        "value1": "31.843",
+        "value2": "48.253"
+      },
+      {
+        "name": "MOROWALI UTARA",
+        "value1": "49.352",
+        "value2": "19.436"
+      },
+      {
+        "name": "PARIGI MOUTONG",
+        "value1": "144.857",
+        "value2": "97.064"
+      },
+      {
+        "name": "POSO",
+        "value1": "96.366",
+        "value2": "33.341"
+      },
+      {
+        "name": "SIGI",
+        "value1": "79.262",
+        "value2": "62.300"
+      },
+      {
+        "name": "TOJO UNA-UNA",
+        "value1": "43.998",
+        "value2": "48.862"
+      },
+      {
+        "name": "TOLITOLI",
+        "value1": "66.478",
+        "value2": "59.284"
+      }
+    ]
+  },
+  {
+    "no": 26,
+    "name": "SULAWESI SELATAN",
+    "value1": "2.117.591",
+    "value2": "2.809.393",
+    "kab": [
+      {
+        "name": "BANTAENG",
+        "value1": "30.135",
+        "value2": "80.246"
+      },
+      {
+        "name": "BARRU",
+        "value1": "50.101",
+        "value2": "55.705"
+      },
+      {
+        "name": "BONE",
+        "value1": "238.686",
+        "value2": "189.390"
+      },
+      {
+        "name": "BULUKUMBA",
+        "value1": "79.389",
+        "value2": "159.601"
+      },
+      {
+        "name": "ENREKANG",
+        "value1": "30.880",
+        "value2": "96.871"
+      },
+      {
+        "name": "GOWA",
+        "value1": "152.846",
+        "value2": "264.626"
+      },
+      {
+        "name": "JENEPONTO",
+        "value1": "46.125",
+        "value2": "168.782"
+      },
+      {
+        "name": "KEPULAUAN SELAYAR",
+        "value1": "34.376",
+        "value2": "42.221"
+      },
+      {
+        "name": "KOTA MAKASSAR",
+        "value1": "304.115",
+        "value2": "416.990"
+      },
+      {
+        "name": "KOTA PALOPO",
+        "value1": "35.907",
+        "value2": "57.296"
+      },
+      {
+        "name": "KOTA PARE PARE",
+        "value1": "39.441",
+        "value2": "44.820"
+      },
+      {
+        "name": "LUWU",
+        "value1": "67.836",
+        "value2": "147.431"
+      },
+      {
+        "name": "LUWU TIMUR",
+        "value1": "72.207",
+        "value2": "83.113"
+      },
+      {
+        "name": "LUWU UTARA",
+        "value1": "70.843",
+        "value2": "108.128"
+      },
+      {
+        "name": "MAROS",
+        "value1": "79.324",
+        "value2": "126.599"
+      },
+      {
+        "name": "PANGKAJENE DAN KEPULAUAN",
+        "value1": "76.263",
+        "value2": "114.479"
+      },
+      {
+        "name": "PINRANG",
+        "value1": "88.077",
+        "value2": "140.461"
+      },
+      {
+        "name": "SIDENRENG RAPPANG",
+        "value1": "76.957",
+        "value2": "100.329"
+      },
+      {
+        "name": "SINJAI",
+        "value1": "37.321",
+        "value2": "107.837"
+      },
+      {
+        "name": "SOPPENG",
+        "value1": "83.219",
+        "value2": "60.007"
+      },
+      {
+        "name": "TAKALAR",
+        "value1": "66.837",
+        "value2": "108.140"
+      },
+      {
+        "name": "TANA TORAJA",
+        "value1": "117.051",
+        "value2": "15.984"
+      },
+      {
+        "name": "TORAJA UTARA",
+        "value1": "117.463",
+        "value2": "13.876"
+      },
+      {
+        "name": "WAJO",
+        "value1": "122.192",
+        "value2": "106.461"
+      }
+    ]
+  },
+  {
+    "no": 27,
+    "name": "SULAWESI TENGGARA",
+    "value1": "555.664",
+    "value2": "842.117",
+    "kab": [
+      {
+        "name": "BOMBANA",
+        "value1": "36.815",
+        "value2": "48.341"
+      },
+      {
+        "name": "BUTON",
+        "value1": "34.716",
+        "value2": "23.145"
+      },
+      {
+        "name": "BUTON SELATAN",
+        "value1": "23.185",
+        "value2": "20.213"
+      },
+      {
+        "name": "BUTON TENGAH",
+        "value1": "22.473",
+        "value2": "27.174"
+      },
+      {
+        "name": "BUTON UTARA",
+        "value1": "19.692",
+        "value2": "19.392"
+      },
+      {
+        "name": "KOLAKA",
+        "value1": "44.012",
+        "value2": "85.780"
+      },
+      {
+        "name": "KOLAKA TIMUR",
+        "value1": "30.056",
+        "value2": "39.948"
+      },
+      {
+        "name": "KOLAKA UTARA",
+        "value1": "25.788",
+        "value2": "50.446"
+      },
+      {
+        "name": "KONAWE",
+        "value1": "47.389",
+        "value2": "97.738"
+      },
+      {
+        "name": "KONAWE KEPULAUAN",
+        "value1": "4.869",
+        "value2": "17.627"
+      },
+      {
+        "name": "KONAWE SELATAN",
+        "value1": "65.542",
+        "value2": "105.165"
+      },
+      {
+        "name": "KONAWE UTARA",
+        "value1": "16.082",
+        "value2": "22.550"
+      },
+      {
+        "name": "KOTA BAU BAU",
+        "value1": "35.482",
+        "value2": "43.532"
+      },
+      {
+        "name": "KOTA KENDARI",
+        "value1": "59.100",
+        "value2": "118.789"
+      },
+      {
+        "name": "MUNA",
+        "value1": "40.640",
+        "value2": "70.370"
+      },
+      {
+        "name": "MUNA BARAT",
+        "value1": "18.463",
+        "value2": "26.672"
+      },
+      {
+        "name": "WAKATOBI",
+        "value1": "31.360",
+        "value2": "25.235"
+      }
+    ]
+  },
+  {
+    "no": 28,
+    "name": "GORONTALO",
+    "value1": "369.803",
+    "value2": "345.129",
+    "kab": [
+      {
+        "name": "BOALEMO",
+        "value1": "55.662",
+        "value2": "33.466"
+      },
+      {
+        "name": "BONE BOLANGO",
+        "value1": "46.545",
+        "value2": "55.886"
+      },
+      {
+        "name": "GORONTALO UTARA",
+        "value1": "35.224",
+        "value2": "38.956"
+      },
+      {
+        "name": "GORONTALO.",
+        "value1": "133.621",
+        "value2": "110.921"
+      },
+      {
+        "name": "KOTA GORONTALO",
+        "value1": "45.970",
+        "value2": "70.744"
+      },
+      {
+        "name": "PAHUWATO",
+        "value1": "52.781",
+        "value2": "35.156"
+      }
+    ]
+  },
+  {
+    "no": 29,
+    "name": "SULAWESI BARAT",
+    "value1": "475.312",
+    "value2": "263.620",
+    "kab": [
+      {
+        "name": "MAJENE",
+        "value1": "59.900",
+        "value2": "38.508"
+      },
+      {
+        "name": "MAMASA",
+        "value1": "84.091",
+        "value2": "13.912"
+      },
+      {
+        "name": "MAMUJU",
+        "value1": "88.367",
+        "value2": "54.866"
+      },
+      {
+        "name": "MAMUJU TENGAH",
+        "value1": "48.666",
+        "value2": "18.940"
+      },
+      {
+        "name": "PASANGKAYU",
+        "value1": "55.430",
+        "value2": "28.870"
+      },
+      {
+        "name": "POLEWALI MANDAR",
+        "value1": "138.858",
+        "value2": "108.524"
+      }
+    ]
+  },
+  {
+    "no": 30,
+    "name": "MALUKU",
+    "value1": "599.457",
+    "value2": "392.940",
+    "kab": [
+      {
+        "name": "BURU",
+        "value1": "40.023",
+        "value2": "35.955"
+      },
+      {
+        "name": "BURU SELATAN",
+        "value1": "19.806",
+        "value2": "19.782"
+      },
+      {
+        "name": "KEPULAUAN ARU",
+        "value1": "42.917",
+        "value2": "8.602"
+      },
+      {
+        "name": "KOTA AMBON",
+        "value1": "120.928",
+        "value2": "59.853"
+      },
+      {
+        "name": "KOTA TUAL",
+        "value1": "18.910",
+        "value2": "17.945"
+      },
+      {
+        "name": "MALUKU BARAT DAYA",
+        "value1": "40.496",
+        "value2": "4.037"
+      },
+      {
+        "name": "MALUKU TENGAH",
+        "value1": "114.157",
+        "value2": "116.390"
+      },
+      {
+        "name": "MALUKU TENGGARA",
+        "value1": "46.731",
+        "value2": "15.039"
+      },
+      {
+        "name": "MALUKU TENGGARA BARAT",
+        "value1": "54.489",
+        "value2": "4.873"
+      },
+      {
+        "name": "SERAM BAGIAN BARAT",
+        "value1": "59.072",
+        "value2": "70.783"
+      },
+      {
+        "name": "SERAM BAGIAN TIMUR",
+        "value1": "41.928",
+        "value2": "39.681"
+      }
+    ]
+  },
+  {
+    "no": 31,
+    "name": "MALUKU UTARA",
+    "value1": "310.548",
+    "value2": "344.823",
+    "kab": [
+      {
+        "name": "HALMAHERA BARAT",
+        "value1": "42.591",
+        "value2": "21.635"
+      },
+      {
+        "name": "HALMAHERA SELATAN",
+        "value1": "49.044",
+        "value2": "71.673"
+      },
+      {
+        "name": "HALMAHERA TENGAH",
+        "value1": "17.479",
+        "value2": "12.219"
+      },
+      {
+        "name": "HALMAHERA TIMUR",
+        "value1": "27.409",
+        "value2": "21.813"
+      },
+      {
+        "name": "HALMAHERA UTARA",
+        "value1": "70.890",
+        "value2": "35.740"
+      },
+      {
+        "name": "KEPULAUAN SULA",
+        "value1": "10.784",
+        "value2": "38.547"
+      },
+      {
+        "name": "KOTA TERNATE",
+        "value1": "32.714",
+        "value2": "69.468"
+      },
+      {
+        "name": "KOTA TIDORE KEPULAUAN",
+        "value1": "24.978",
+        "value2": "37.631"
+      },
+      {
+        "name": "PULAU MOROTAI",
+        "value1": "21.221",
+        "value2": "18.771"
+      },
+      {
+        "name": "PULAU TALIABU",
+        "value1": "13.438",
+        "value2": "17.326"
+      }
+    ]
+  },
+  {
+    "no": 32,
+    "name": "PAPUA",
+    "value1": "3.021.713",
+    "value2": "311.352",
+    "kab": [
+      {
+        "name": "ASMAT",
+        "value1": "74.711",
+        "value2": "1.888"
+      },
+      {
+        "name": "BIAK NUMFOR",
+        "value1": "65.663",
+        "value2": "7.107"
+      },
+      {
+        "name": "BOVEN DIGOEL",
+        "value1": "27.868",
+        "value2": "3.829"
+      },
+      {
+        "name": "DEIYAI",
+        "value1": "44.408",
+        "value2": "14.757"
+      },
+      {
+        "name": "DOGIYAI",
+        "value1": "76.473",
+        "value2": "15.300"
+      },
+      {
+        "name": "INTAN JAYA",
+        "value1": "74.029",
+        "value2": "11.309"
+      },
+      {
+        "name": "JAYAPURA",
+        "value1": "73.098",
+        "value2": "18.083"
+      },
+      {
+        "name": "JAYAWIJAYA",
+        "value1": "271.730",
+        "value2": "496"
+      },
+      {
+        "name": "KEEROM",
+        "value1": "32.103",
+        "value2": "11.807"
+      },
+      {
+        "name": "KEPULAUAN YAPEN",
+        "value1": "96.044",
+        "value2": "3.633"
+      },
+      {
+        "name": "KOTA JAYAPURA",
+        "value1": "188.403",
+        "value2": "70.254"
+      },
+      {
+        "name": "LANNY JAYA",
+        "value1": "188.305",
+        "value2": "0"
+      },
+      {
+        "name": "MAMBERAMO RAYA",
+        "value1": "23.781",
+        "value2": "914"
+      },
+      {
+        "name": "MAMBERAMO TENGAH",
+        "value1": "37.592",
+        "value2": "0"
+      },
+      {
+        "name": "MAPPI",
+        "value1": "56.524",
+        "value2": "3.677"
+      },
+      {
+        "name": "MERAUKE",
+        "value1": "84.917",
+        "value2": "26.757"
+      },
+      {
+        "name": "MIMIKA",
+        "value1": "185.610",
+        "value2": "32.316"
+      },
+      {
+        "name": "NABIRE",
+        "value1": "137.748",
+        "value2": "46.891"
+      },
+      {
+        "name": "NDUGA",
+        "value1": "94.214",
+        "value2": "0"
+      },
+      {
+        "name": "PANIAI",
+        "value1": "74.326",
+        "value2": "27.698"
+      },
+      {
+        "name": "PEGUNUNGAN BINTANG",
+        "value1": "101.489",
+        "value2": "1.877"
+      },
+      {
+        "name": "PUNCAK",
+        "value1": "158.330",
+        "value2": "0"
+      },
+      {
+        "name": "PUNCAK JAYA",
+        "value1": "183.880",
+        "value2": "0"
+      },
+      {
+        "name": "SARMI",
+        "value1": "18.555",
+        "value2": "4.003"
+      },
+      {
+        "name": "SUPIORI",
+        "value1": "12.259",
+        "value2": "739"
+      },
+      {
+        "name": "TOLIKARA",
+        "value1": "230.532",
+        "value2": "233"
+      },
+      {
+        "name": "WAROPEN",
+        "value1": "31.857",
+        "value2": "2.325"
+      },
+      {
+        "name": "YAHUKIMO",
+        "value1": "287.829",
+        "value2": "5.456"
+      },
+      {
+        "name": "YALIMO",
+        "value1": "89.435",
+        "value2": "3"
+      }
+    ]
+  },
+  {
+    "no": 33,
+    "name": "PAPUA BARAT",
+    "value1": "508.997",
+    "value2": "128.732",
+    "kab": [
+      {
+        "name": "FAKFAK",
+        "value1": "30.386",
+        "value2": "11.888"
+      },
+      {
+        "name": "KAIMANA",
+        "value1": "20.525",
+        "value2": "5.308"
+      },
+      {
+        "name": "KOTA SORONG",
+        "value1": "83.358",
+        "value2": "34.635"
+      },
+      {
+        "name": "MANOKWARI",
+        "value1": "95.265",
+        "value2": "26.171"
+      },
+      {
+        "name": "MANOKWARI SELATAN",
+        "value1": "23.524",
+        "value2": "2.295"
+      },
+      {
+        "name": "MAYBRAT",
+        "value1": "37.446",
+        "value2": "1.233"
+      },
+      {
+        "name": "PEGUNUNGAN ARFAK",
+        "value1": "32.131",
+        "value2": "389"
+      },
+      {
+        "name": "RAJA AMPAT",
+        "value1": "27.295",
+        "value2": "8.817"
+      },
+      {
+        "name": "SORONG",
+        "value1": "46.858",
+        "value2": "20.992"
+      },
+      {
+        "name": "SORONG SELATAN",
+        "value1": "35.871",
+        "value2": "5.839"
+      },
+      {
+        "name": "TAMBRAUW",
+        "value1": "23.862",
+        "value2": "1.479"
+      },
+      {
+        "name": "TELUK BINTUNI",
+        "value1": "35.510",
+        "value2": "7.347"
+      },
+      {
+        "name": "TELUK WONDAMA",
+        "value1": "16.966",
+        "value2": "2.339"
+      }
+    ]
+  },
+  {
+    "no": 34,
+    "name": "KALIMANTAN UTARA",
+    "value1": "248.239",
+    "value2": "106.162",
+    "kab": [
+      {
+        "name": "BULUNGAN",
+        "value1": "54.832",
+        "value2": "23.279"
+      },
+      {
+        "name": "KOTA TARAKAN",
+        "value1": "71.343",
+        "value2": "49.805"
+      },
+      {
+        "name": "MALINAU",
+        "value1": "36.167",
+        "value2": "7.150"
+      },
+      {
+        "name": "NUNUKAN",
+        "value1": "77.123",
+        "value2": "21.416"
+      },
+      {
+        "name": "TANA TIDUNG",
+        "value1": "8.774",
+        "value2": "4.512"
+      }
+    ]
+  },
+  {
+    "no": 35,
+    "name": "+Luar Negeri",
+    "value1": "570.534",
+    "value2": "207.746",
+    "kab": []
+  }
+]

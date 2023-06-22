@@ -1,0 +1,1748 @@
+[
+  {
+    "name": "ACEH",
+    "value1": "404.188",
+    "value2": "2.400.746",
+    "kab": [
+      {
+        "name": "ACEH",
+        "value1": "404.188",
+        "value2": "2.400.746"
+      },
+      {
+        "name": "SUMATERA UTARA",
+        "value1": "3.936.515",
+        "value2": "3.587.786"
+      },
+      {
+        "name": "SUMATERA BARAT",
+        "value1": "407.761",
+        "value2": "2.488.733"
+      },
+      {
+        "name": "RIAU",
+        "value1": "1.248.713",
+        "value2": "1.975.287"
+      },
+      {
+        "name": "JAMBI",
+        "value1": "859.833",
+        "value2": "1.203.025"
+      },
+      {
+        "name": "SUMATERA SELATAN",
+        "value1": "1.942.987",
+        "value2": "2.877.781"
+      },
+      {
+        "name": "BENGKULU",
+        "value1": "583.488",
+        "value2": "585.999"
+      },
+      {
+        "name": "LAMPUNG",
+        "value1": "2.853.585",
+        "value2": "1.955.689"
+      },
+      {
+        "name": "KEPULAUAN BANGKA BELITUNG",
+        "value1": "495.729",
+        "value2": "288.235"
+      },
+      {
+        "name": "KEPULAUAN RIAU",
+        "value1": "550.692",
+        "value2": "465.511"
+      },
+      {
+        "name": "DKI JAKARTA",
+        "value1": "3.279.547",
+        "value2": "3.066.137"
+      },
+      {
+        "name": "JAWA BARAT",
+        "value1": "10.750.568",
+        "value2": "16.077.446"
+      },
+      {
+        "name": "JAWA TENGAH",
+        "value1": "16.825.511",
+        "value2": "4.944.447"
+      },
+      {
+        "name": "DAERAH ISTIMEWA YOGYAKARTA",
+        "value1": "1.655.174",
+        "value2": "742.481"
+      },
+      {
+        "name": "JAWA TIMUR",
+        "value1": "16.231.668",
+        "value2": "8.441.247"
+      },
+      {
+        "name": "BANTEN",
+        "value1": "2.537.524",
+        "value2": "4.059.514"
+      },
+      {
+        "name": "BALI",
+        "value1": "2.351.057",
+        "value2": "213.415"
+      },
+      {
+        "name": "NUSA TENGGARA BARAT",
+        "value1": "951.242",
+        "value2": "2.011.319"
+      }
+    ]
+  },
+  {
+    "name": "SUMATERA UTARA",
+    "value1": "3.936.515",
+    "value2": "3.587.786",
+    "kab": [
+      {
+        "name": "ACEH",
+        "value1": "404.188",
+        "value2": "2.400.746"
+      },
+      {
+        "name": "SUMATERA UTARA",
+        "value1": "3.936.515",
+        "value2": "3.587.786"
+      },
+      {
+        "name": "SUMATERA BARAT",
+        "value1": "407.761",
+        "value2": "2.488.733"
+      },
+      {
+        "name": "RIAU",
+        "value1": "1.248.713",
+        "value2": "1.975.287"
+      },
+      {
+        "name": "JAMBI",
+        "value1": "859.833",
+        "value2": "1.203.025"
+      },
+      {
+        "name": "SUMATERA SELATAN",
+        "value1": "1.942.987",
+        "value2": "2.877.781"
+      },
+      {
+        "name": "BENGKULU",
+        "value1": "583.488",
+        "value2": "585.999"
+      },
+      {
+        "name": "LAMPUNG",
+        "value1": "2.853.585",
+        "value2": "1.955.689"
+      },
+      {
+        "name": "KEPULAUAN BANGKA BELITUNG",
+        "value1": "495.729",
+        "value2": "288.235"
+      },
+      {
+        "name": "KEPULAUAN RIAU",
+        "value1": "550.692",
+        "value2": "465.511"
+      },
+      {
+        "name": "DKI JAKARTA",
+        "value1": "3.279.547",
+        "value2": "3.066.137"
+      },
+      {
+        "name": "JAWA BARAT",
+        "value1": "10.750.568",
+        "value2": "16.077.446"
+      },
+      {
+        "name": "JAWA TENGAH",
+        "value1": "16.825.511",
+        "value2": "4.944.447"
+      },
+      {
+        "name": "DAERAH ISTIMEWA YOGYAKARTA",
+        "value1": "1.655.174",
+        "value2": "742.481"
+      },
+      {
+        "name": "JAWA TIMUR",
+        "value1": "16.231.668",
+        "value2": "8.441.247"
+      },
+      {
+        "name": "BANTEN",
+        "value1": "2.537.524",
+        "value2": "4.059.514"
+      },
+      {
+        "name": "BALI",
+        "value1": "2.351.057",
+        "value2": "213.415"
+      },
+      {
+        "name": "NUSA TENGGARA BARAT",
+        "value1": "951.242",
+        "value2": "2.011.319"
+      }
+    ]
+  },
+  {
+    "name": "SUMATERA BARAT",
+    "value1": "407.761",
+    "value2": "2.488.733",
+    "kab": [
+      {
+        "name": "ACEH",
+        "value1": "404.188",
+        "value2": "2.400.746"
+      },
+      {
+        "name": "SUMATERA UTARA",
+        "value1": "3.936.515",
+        "value2": "3.587.786"
+      },
+      {
+        "name": "SUMATERA BARAT",
+        "value1": "407.761",
+        "value2": "2.488.733"
+      },
+      {
+        "name": "RIAU",
+        "value1": "1.248.713",
+        "value2": "1.975.287"
+      },
+      {
+        "name": "JAMBI",
+        "value1": "859.833",
+        "value2": "1.203.025"
+      },
+      {
+        "name": "SUMATERA SELATAN",
+        "value1": "1.942.987",
+        "value2": "2.877.781"
+      },
+      {
+        "name": "BENGKULU",
+        "value1": "583.488",
+        "value2": "585.999"
+      },
+      {
+        "name": "LAMPUNG",
+        "value1": "2.853.585",
+        "value2": "1.955.689"
+      },
+      {
+        "name": "KEPULAUAN BANGKA BELITUNG",
+        "value1": "495.729",
+        "value2": "288.235"
+      },
+      {
+        "name": "KEPULAUAN RIAU",
+        "value1": "550.692",
+        "value2": "465.511"
+      },
+      {
+        "name": "DKI JAKARTA",
+        "value1": "3.279.547",
+        "value2": "3.066.137"
+      },
+      {
+        "name": "JAWA BARAT",
+        "value1": "10.750.568",
+        "value2": "16.077.446"
+      },
+      {
+        "name": "JAWA TENGAH",
+        "value1": "16.825.511",
+        "value2": "4.944.447"
+      },
+      {
+        "name": "DAERAH ISTIMEWA YOGYAKARTA",
+        "value1": "1.655.174",
+        "value2": "742.481"
+      },
+      {
+        "name": "JAWA TIMUR",
+        "value1": "16.231.668",
+        "value2": "8.441.247"
+      },
+      {
+        "name": "BANTEN",
+        "value1": "2.537.524",
+        "value2": "4.059.514"
+      },
+      {
+        "name": "BALI",
+        "value1": "2.351.057",
+        "value2": "213.415"
+      },
+      {
+        "name": "NUSA TENGGARA BARAT",
+        "value1": "951.242",
+        "value2": "2.011.319"
+      }
+    ]
+  },
+  {
+    "name": "RIAU",
+    "value1": "1.248.713",
+    "value2": "1.975.287",
+    "kab": [
+      {
+        "name": "ACEH",
+        "value1": "404.188",
+        "value2": "2.400.746"
+      },
+      {
+        "name": "SUMATERA UTARA",
+        "value1": "3.936.515",
+        "value2": "3.587.786"
+      },
+      {
+        "name": "SUMATERA BARAT",
+        "value1": "407.761",
+        "value2": "2.488.733"
+      },
+      {
+        "name": "RIAU",
+        "value1": "1.248.713",
+        "value2": "1.975.287"
+      },
+      {
+        "name": "JAMBI",
+        "value1": "859.833",
+        "value2": "1.203.025"
+      },
+      {
+        "name": "SUMATERA SELATAN",
+        "value1": "1.942.987",
+        "value2": "2.877.781"
+      },
+      {
+        "name": "BENGKULU",
+        "value1": "583.488",
+        "value2": "585.999"
+      },
+      {
+        "name": "LAMPUNG",
+        "value1": "2.853.585",
+        "value2": "1.955.689"
+      },
+      {
+        "name": "KEPULAUAN BANGKA BELITUNG",
+        "value1": "495.729",
+        "value2": "288.235"
+      },
+      {
+        "name": "KEPULAUAN RIAU",
+        "value1": "550.692",
+        "value2": "465.511"
+      },
+      {
+        "name": "DKI JAKARTA",
+        "value1": "3.279.547",
+        "value2": "3.066.137"
+      },
+      {
+        "name": "JAWA BARAT",
+        "value1": "10.750.568",
+        "value2": "16.077.446"
+      },
+      {
+        "name": "JAWA TENGAH",
+        "value1": "16.825.511",
+        "value2": "4.944.447"
+      },
+      {
+        "name": "DAERAH ISTIMEWA YOGYAKARTA",
+        "value1": "1.655.174",
+        "value2": "742.481"
+      },
+      {
+        "name": "JAWA TIMUR",
+        "value1": "16.231.668",
+        "value2": "8.441.247"
+      },
+      {
+        "name": "BANTEN",
+        "value1": "2.537.524",
+        "value2": "4.059.514"
+      },
+      {
+        "name": "BALI",
+        "value1": "2.351.057",
+        "value2": "213.415"
+      },
+      {
+        "name": "NUSA TENGGARA BARAT",
+        "value1": "951.242",
+        "value2": "2.011.319"
+      }
+    ]
+  },
+  {
+    "name": "JAMBI",
+    "value1": "859.833",
+    "value2": "1.203.025",
+    "kab": [
+      {
+        "name": "ACEH",
+        "value1": "404.188",
+        "value2": "2.400.746"
+      },
+      {
+        "name": "SUMATERA UTARA",
+        "value1": "3.936.515",
+        "value2": "3.587.786"
+      },
+      {
+        "name": "SUMATERA BARAT",
+        "value1": "407.761",
+        "value2": "2.488.733"
+      },
+      {
+        "name": "RIAU",
+        "value1": "1.248.713",
+        "value2": "1.975.287"
+      },
+      {
+        "name": "JAMBI",
+        "value1": "859.833",
+        "value2": "1.203.025"
+      },
+      {
+        "name": "SUMATERA SELATAN",
+        "value1": "1.942.987",
+        "value2": "2.877.781"
+      },
+      {
+        "name": "BENGKULU",
+        "value1": "583.488",
+        "value2": "585.999"
+      },
+      {
+        "name": "LAMPUNG",
+        "value1": "2.853.585",
+        "value2": "1.955.689"
+      },
+      {
+        "name": "KEPULAUAN BANGKA BELITUNG",
+        "value1": "495.729",
+        "value2": "288.235"
+      },
+      {
+        "name": "KEPULAUAN RIAU",
+        "value1": "550.692",
+        "value2": "465.511"
+      },
+      {
+        "name": "DKI JAKARTA",
+        "value1": "3.279.547",
+        "value2": "3.066.137"
+      },
+      {
+        "name": "JAWA BARAT",
+        "value1": "10.750.568",
+        "value2": "16.077.446"
+      },
+      {
+        "name": "JAWA TENGAH",
+        "value1": "16.825.511",
+        "value2": "4.944.447"
+      },
+      {
+        "name": "DAERAH ISTIMEWA YOGYAKARTA",
+        "value1": "1.655.174",
+        "value2": "742.481"
+      },
+      {
+        "name": "JAWA TIMUR",
+        "value1": "16.231.668",
+        "value2": "8.441.247"
+      },
+      {
+        "name": "BANTEN",
+        "value1": "2.537.524",
+        "value2": "4.059.514"
+      },
+      {
+        "name": "BALI",
+        "value1": "2.351.057",
+        "value2": "213.415"
+      },
+      {
+        "name": "NUSA TENGGARA BARAT",
+        "value1": "951.242",
+        "value2": "2.011.319"
+      }
+    ]
+  },
+  {
+    "name": "SUMATERA SELATAN",
+    "value1": "1.942.987",
+    "value2": "2.877.781",
+    "kab": [
+      {
+        "name": "ACEH",
+        "value1": "404.188",
+        "value2": "2.400.746"
+      },
+      {
+        "name": "SUMATERA UTARA",
+        "value1": "3.936.515",
+        "value2": "3.587.786"
+      },
+      {
+        "name": "SUMATERA BARAT",
+        "value1": "407.761",
+        "value2": "2.488.733"
+      },
+      {
+        "name": "RIAU",
+        "value1": "1.248.713",
+        "value2": "1.975.287"
+      },
+      {
+        "name": "JAMBI",
+        "value1": "859.833",
+        "value2": "1.203.025"
+      },
+      {
+        "name": "SUMATERA SELATAN",
+        "value1": "1.942.987",
+        "value2": "2.877.781"
+      },
+      {
+        "name": "BENGKULU",
+        "value1": "583.488",
+        "value2": "585.999"
+      },
+      {
+        "name": "LAMPUNG",
+        "value1": "2.853.585",
+        "value2": "1.955.689"
+      },
+      {
+        "name": "KEPULAUAN BANGKA BELITUNG",
+        "value1": "495.729",
+        "value2": "288.235"
+      },
+      {
+        "name": "KEPULAUAN RIAU",
+        "value1": "550.692",
+        "value2": "465.511"
+      },
+      {
+        "name": "DKI JAKARTA",
+        "value1": "3.279.547",
+        "value2": "3.066.137"
+      },
+      {
+        "name": "JAWA BARAT",
+        "value1": "10.750.568",
+        "value2": "16.077.446"
+      },
+      {
+        "name": "JAWA TENGAH",
+        "value1": "16.825.511",
+        "value2": "4.944.447"
+      },
+      {
+        "name": "DAERAH ISTIMEWA YOGYAKARTA",
+        "value1": "1.655.174",
+        "value2": "742.481"
+      },
+      {
+        "name": "JAWA TIMUR",
+        "value1": "16.231.668",
+        "value2": "8.441.247"
+      },
+      {
+        "name": "BANTEN",
+        "value1": "2.537.524",
+        "value2": "4.059.514"
+      },
+      {
+        "name": "BALI",
+        "value1": "2.351.057",
+        "value2": "213.415"
+      },
+      {
+        "name": "NUSA TENGGARA BARAT",
+        "value1": "951.242",
+        "value2": "2.011.319"
+      }
+    ]
+  },
+  {
+    "name": "BENGKULU",
+    "value1": "583.488",
+    "value2": "585.999",
+    "kab": [
+      {
+        "name": "ACEH",
+        "value1": "404.188",
+        "value2": "2.400.746"
+      },
+      {
+        "name": "SUMATERA UTARA",
+        "value1": "3.936.515",
+        "value2": "3.587.786"
+      },
+      {
+        "name": "SUMATERA BARAT",
+        "value1": "407.761",
+        "value2": "2.488.733"
+      },
+      {
+        "name": "RIAU",
+        "value1": "1.248.713",
+        "value2": "1.975.287"
+      },
+      {
+        "name": "JAMBI",
+        "value1": "859.833",
+        "value2": "1.203.025"
+      },
+      {
+        "name": "SUMATERA SELATAN",
+        "value1": "1.942.987",
+        "value2": "2.877.781"
+      },
+      {
+        "name": "BENGKULU",
+        "value1": "583.488",
+        "value2": "585.999"
+      },
+      {
+        "name": "LAMPUNG",
+        "value1": "2.853.585",
+        "value2": "1.955.689"
+      },
+      {
+        "name": "KEPULAUAN BANGKA BELITUNG",
+        "value1": "495.729",
+        "value2": "288.235"
+      },
+      {
+        "name": "KEPULAUAN RIAU",
+        "value1": "550.692",
+        "value2": "465.511"
+      },
+      {
+        "name": "DKI JAKARTA",
+        "value1": "3.279.547",
+        "value2": "3.066.137"
+      },
+      {
+        "name": "JAWA BARAT",
+        "value1": "10.750.568",
+        "value2": "16.077.446"
+      },
+      {
+        "name": "JAWA TENGAH",
+        "value1": "16.825.511",
+        "value2": "4.944.447"
+      },
+      {
+        "name": "DAERAH ISTIMEWA YOGYAKARTA",
+        "value1": "1.655.174",
+        "value2": "742.481"
+      },
+      {
+        "name": "JAWA TIMUR",
+        "value1": "16.231.668",
+        "value2": "8.441.247"
+      },
+      {
+        "name": "BANTEN",
+        "value1": "2.537.524",
+        "value2": "4.059.514"
+      },
+      {
+        "name": "BALI",
+        "value1": "2.351.057",
+        "value2": "213.415"
+      },
+      {
+        "name": "NUSA TENGGARA BARAT",
+        "value1": "951.242",
+        "value2": "2.011.319"
+      }
+    ]
+  },
+  {
+    "name": "LAMPUNG",
+    "value1": "2.853.585",
+    "value2": "1.955.689",
+    "kab": [
+      {
+        "name": "ACEH",
+        "value1": "404.188",
+        "value2": "2.400.746"
+      },
+      {
+        "name": "SUMATERA UTARA",
+        "value1": "3.936.515",
+        "value2": "3.587.786"
+      },
+      {
+        "name": "SUMATERA BARAT",
+        "value1": "407.761",
+        "value2": "2.488.733"
+      },
+      {
+        "name": "RIAU",
+        "value1": "1.248.713",
+        "value2": "1.975.287"
+      },
+      {
+        "name": "JAMBI",
+        "value1": "859.833",
+        "value2": "1.203.025"
+      },
+      {
+        "name": "SUMATERA SELATAN",
+        "value1": "1.942.987",
+        "value2": "2.877.781"
+      },
+      {
+        "name": "BENGKULU",
+        "value1": "583.488",
+        "value2": "585.999"
+      },
+      {
+        "name": "LAMPUNG",
+        "value1": "2.853.585",
+        "value2": "1.955.689"
+      },
+      {
+        "name": "KEPULAUAN BANGKA BELITUNG",
+        "value1": "495.729",
+        "value2": "288.235"
+      },
+      {
+        "name": "KEPULAUAN RIAU",
+        "value1": "550.692",
+        "value2": "465.511"
+      },
+      {
+        "name": "DKI JAKARTA",
+        "value1": "3.279.547",
+        "value2": "3.066.137"
+      },
+      {
+        "name": "JAWA BARAT",
+        "value1": "10.750.568",
+        "value2": "16.077.446"
+      },
+      {
+        "name": "JAWA TENGAH",
+        "value1": "16.825.511",
+        "value2": "4.944.447"
+      },
+      {
+        "name": "DAERAH ISTIMEWA YOGYAKARTA",
+        "value1": "1.655.174",
+        "value2": "742.481"
+      },
+      {
+        "name": "JAWA TIMUR",
+        "value1": "16.231.668",
+        "value2": "8.441.247"
+      },
+      {
+        "name": "BANTEN",
+        "value1": "2.537.524",
+        "value2": "4.059.514"
+      },
+      {
+        "name": "BALI",
+        "value1": "2.351.057",
+        "value2": "213.415"
+      },
+      {
+        "name": "NUSA TENGGARA BARAT",
+        "value1": "951.242",
+        "value2": "2.011.319"
+      }
+    ]
+  },
+  {
+    "name": "KEPULAUAN BANGKA BELITUNG",
+    "value1": "495.729",
+    "value2": "288.235",
+    "kab": [
+      {
+        "name": "ACEH",
+        "value1": "404.188",
+        "value2": "2.400.746"
+      },
+      {
+        "name": "SUMATERA UTARA",
+        "value1": "3.936.515",
+        "value2": "3.587.786"
+      },
+      {
+        "name": "SUMATERA BARAT",
+        "value1": "407.761",
+        "value2": "2.488.733"
+      },
+      {
+        "name": "RIAU",
+        "value1": "1.248.713",
+        "value2": "1.975.287"
+      },
+      {
+        "name": "JAMBI",
+        "value1": "859.833",
+        "value2": "1.203.025"
+      },
+      {
+        "name": "SUMATERA SELATAN",
+        "value1": "1.942.987",
+        "value2": "2.877.781"
+      },
+      {
+        "name": "BENGKULU",
+        "value1": "583.488",
+        "value2": "585.999"
+      },
+      {
+        "name": "LAMPUNG",
+        "value1": "2.853.585",
+        "value2": "1.955.689"
+      },
+      {
+        "name": "KEPULAUAN BANGKA BELITUNG",
+        "value1": "495.729",
+        "value2": "288.235"
+      },
+      {
+        "name": "KEPULAUAN RIAU",
+        "value1": "550.692",
+        "value2": "465.511"
+      },
+      {
+        "name": "DKI JAKARTA",
+        "value1": "3.279.547",
+        "value2": "3.066.137"
+      },
+      {
+        "name": "JAWA BARAT",
+        "value1": "10.750.568",
+        "value2": "16.077.446"
+      },
+      {
+        "name": "JAWA TENGAH",
+        "value1": "16.825.511",
+        "value2": "4.944.447"
+      },
+      {
+        "name": "DAERAH ISTIMEWA YOGYAKARTA",
+        "value1": "1.655.174",
+        "value2": "742.481"
+      },
+      {
+        "name": "JAWA TIMUR",
+        "value1": "16.231.668",
+        "value2": "8.441.247"
+      },
+      {
+        "name": "BANTEN",
+        "value1": "2.537.524",
+        "value2": "4.059.514"
+      },
+      {
+        "name": "BALI",
+        "value1": "2.351.057",
+        "value2": "213.415"
+      },
+      {
+        "name": "NUSA TENGGARA BARAT",
+        "value1": "951.242",
+        "value2": "2.011.319"
+      }
+    ]
+  },
+  {
+    "name": "KEPULAUAN RIAU",
+    "value1": "550.692",
+    "value2": "465.511",
+    "kab": [
+      {
+        "name": "ACEH",
+        "value1": "404.188",
+        "value2": "2.400.746"
+      },
+      {
+        "name": "SUMATERA UTARA",
+        "value1": "3.936.515",
+        "value2": "3.587.786"
+      },
+      {
+        "name": "SUMATERA BARAT",
+        "value1": "407.761",
+        "value2": "2.488.733"
+      },
+      {
+        "name": "RIAU",
+        "value1": "1.248.713",
+        "value2": "1.975.287"
+      },
+      {
+        "name": "JAMBI",
+        "value1": "859.833",
+        "value2": "1.203.025"
+      },
+      {
+        "name": "SUMATERA SELATAN",
+        "value1": "1.942.987",
+        "value2": "2.877.781"
+      },
+      {
+        "name": "BENGKULU",
+        "value1": "583.488",
+        "value2": "585.999"
+      },
+      {
+        "name": "LAMPUNG",
+        "value1": "2.853.585",
+        "value2": "1.955.689"
+      },
+      {
+        "name": "KEPULAUAN BANGKA BELITUNG",
+        "value1": "495.729",
+        "value2": "288.235"
+      },
+      {
+        "name": "KEPULAUAN RIAU",
+        "value1": "550.692",
+        "value2": "465.511"
+      },
+      {
+        "name": "DKI JAKARTA",
+        "value1": "3.279.547",
+        "value2": "3.066.137"
+      },
+      {
+        "name": "JAWA BARAT",
+        "value1": "10.750.568",
+        "value2": "16.077.446"
+      },
+      {
+        "name": "JAWA TENGAH",
+        "value1": "16.825.511",
+        "value2": "4.944.447"
+      },
+      {
+        "name": "DAERAH ISTIMEWA YOGYAKARTA",
+        "value1": "1.655.174",
+        "value2": "742.481"
+      },
+      {
+        "name": "JAWA TIMUR",
+        "value1": "16.231.668",
+        "value2": "8.441.247"
+      },
+      {
+        "name": "BANTEN",
+        "value1": "2.537.524",
+        "value2": "4.059.514"
+      },
+      {
+        "name": "BALI",
+        "value1": "2.351.057",
+        "value2": "213.415"
+      },
+      {
+        "name": "NUSA TENGGARA BARAT",
+        "value1": "951.242",
+        "value2": "2.011.319"
+      }
+    ]
+  },
+  {
+    "name": "DKI JAKARTA",
+    "value1": "3.279.547",
+    "value2": "3.066.137",
+    "kab": [
+      {
+        "name": "ACEH",
+        "value1": "404.188",
+        "value2": "2.400.746"
+      },
+      {
+        "name": "SUMATERA UTARA",
+        "value1": "3.936.515",
+        "value2": "3.587.786"
+      },
+      {
+        "name": "SUMATERA BARAT",
+        "value1": "407.761",
+        "value2": "2.488.733"
+      },
+      {
+        "name": "RIAU",
+        "value1": "1.248.713",
+        "value2": "1.975.287"
+      },
+      {
+        "name": "JAMBI",
+        "value1": "859.833",
+        "value2": "1.203.025"
+      },
+      {
+        "name": "SUMATERA SELATAN",
+        "value1": "1.942.987",
+        "value2": "2.877.781"
+      },
+      {
+        "name": "BENGKULU",
+        "value1": "583.488",
+        "value2": "585.999"
+      },
+      {
+        "name": "LAMPUNG",
+        "value1": "2.853.585",
+        "value2": "1.955.689"
+      },
+      {
+        "name": "KEPULAUAN BANGKA BELITUNG",
+        "value1": "495.729",
+        "value2": "288.235"
+      },
+      {
+        "name": "KEPULAUAN RIAU",
+        "value1": "550.692",
+        "value2": "465.511"
+      },
+      {
+        "name": "DKI JAKARTA",
+        "value1": "3.279.547",
+        "value2": "3.066.137"
+      },
+      {
+        "name": "JAWA BARAT",
+        "value1": "10.750.568",
+        "value2": "16.077.446"
+      },
+      {
+        "name": "JAWA TENGAH",
+        "value1": "16.825.511",
+        "value2": "4.944.447"
+      },
+      {
+        "name": "DAERAH ISTIMEWA YOGYAKARTA",
+        "value1": "1.655.174",
+        "value2": "742.481"
+      },
+      {
+        "name": "JAWA TIMUR",
+        "value1": "16.231.668",
+        "value2": "8.441.247"
+      },
+      {
+        "name": "BANTEN",
+        "value1": "2.537.524",
+        "value2": "4.059.514"
+      },
+      {
+        "name": "BALI",
+        "value1": "2.351.057",
+        "value2": "213.415"
+      },
+      {
+        "name": "NUSA TENGGARA BARAT",
+        "value1": "951.242",
+        "value2": "2.011.319"
+      }
+    ]
+  },
+  {
+    "name": "JAWA BARAT",
+    "value1": "10.750.568",
+    "value2": "16.077.446",
+    "kab": [
+      {
+        "name": "ACEH",
+        "value1": "404.188",
+        "value2": "2.400.746"
+      },
+      {
+        "name": "SUMATERA UTARA",
+        "value1": "3.936.515",
+        "value2": "3.587.786"
+      },
+      {
+        "name": "SUMATERA BARAT",
+        "value1": "407.761",
+        "value2": "2.488.733"
+      },
+      {
+        "name": "RIAU",
+        "value1": "1.248.713",
+        "value2": "1.975.287"
+      },
+      {
+        "name": "JAMBI",
+        "value1": "859.833",
+        "value2": "1.203.025"
+      },
+      {
+        "name": "SUMATERA SELATAN",
+        "value1": "1.942.987",
+        "value2": "2.877.781"
+      },
+      {
+        "name": "BENGKULU",
+        "value1": "583.488",
+        "value2": "585.999"
+      },
+      {
+        "name": "LAMPUNG",
+        "value1": "2.853.585",
+        "value2": "1.955.689"
+      },
+      {
+        "name": "KEPULAUAN BANGKA BELITUNG",
+        "value1": "495.729",
+        "value2": "288.235"
+      },
+      {
+        "name": "KEPULAUAN RIAU",
+        "value1": "550.692",
+        "value2": "465.511"
+      },
+      {
+        "name": "DKI JAKARTA",
+        "value1": "3.279.547",
+        "value2": "3.066.137"
+      },
+      {
+        "name": "JAWA BARAT",
+        "value1": "10.750.568",
+        "value2": "16.077.446"
+      },
+      {
+        "name": "JAWA TENGAH",
+        "value1": "16.825.511",
+        "value2": "4.944.447"
+      },
+      {
+        "name": "DAERAH ISTIMEWA YOGYAKARTA",
+        "value1": "1.655.174",
+        "value2": "742.481"
+      },
+      {
+        "name": "JAWA TIMUR",
+        "value1": "16.231.668",
+        "value2": "8.441.247"
+      },
+      {
+        "name": "BANTEN",
+        "value1": "2.537.524",
+        "value2": "4.059.514"
+      },
+      {
+        "name": "BALI",
+        "value1": "2.351.057",
+        "value2": "213.415"
+      },
+      {
+        "name": "NUSA TENGGARA BARAT",
+        "value1": "951.242",
+        "value2": "2.011.319"
+      }
+    ]
+  },
+  {
+    "name": "JAWA TENGAH",
+    "value1": "16.825.511",
+    "value2": "4.944.447",
+    "kab": [
+      {
+        "name": "ACEH",
+        "value1": "404.188",
+        "value2": "2.400.746"
+      },
+      {
+        "name": "SUMATERA UTARA",
+        "value1": "3.936.515",
+        "value2": "3.587.786"
+      },
+      {
+        "name": "SUMATERA BARAT",
+        "value1": "407.761",
+        "value2": "2.488.733"
+      },
+      {
+        "name": "RIAU",
+        "value1": "1.248.713",
+        "value2": "1.975.287"
+      },
+      {
+        "name": "JAMBI",
+        "value1": "859.833",
+        "value2": "1.203.025"
+      },
+      {
+        "name": "SUMATERA SELATAN",
+        "value1": "1.942.987",
+        "value2": "2.877.781"
+      },
+      {
+        "name": "BENGKULU",
+        "value1": "583.488",
+        "value2": "585.999"
+      },
+      {
+        "name": "LAMPUNG",
+        "value1": "2.853.585",
+        "value2": "1.955.689"
+      },
+      {
+        "name": "KEPULAUAN BANGKA BELITUNG",
+        "value1": "495.729",
+        "value2": "288.235"
+      },
+      {
+        "name": "KEPULAUAN RIAU",
+        "value1": "550.692",
+        "value2": "465.511"
+      },
+      {
+        "name": "DKI JAKARTA",
+        "value1": "3.279.547",
+        "value2": "3.066.137"
+      },
+      {
+        "name": "JAWA BARAT",
+        "value1": "10.750.568",
+        "value2": "16.077.446"
+      },
+      {
+        "name": "JAWA TENGAH",
+        "value1": "16.825.511",
+        "value2": "4.944.447"
+      },
+      {
+        "name": "DAERAH ISTIMEWA YOGYAKARTA",
+        "value1": "1.655.174",
+        "value2": "742.481"
+      },
+      {
+        "name": "JAWA TIMUR",
+        "value1": "16.231.668",
+        "value2": "8.441.247"
+      },
+      {
+        "name": "BANTEN",
+        "value1": "2.537.524",
+        "value2": "4.059.514"
+      },
+      {
+        "name": "BALI",
+        "value1": "2.351.057",
+        "value2": "213.415"
+      },
+      {
+        "name": "NUSA TENGGARA BARAT",
+        "value1": "951.242",
+        "value2": "2.011.319"
+      }
+    ]
+  },
+  {
+    "name": "DAERAH ISTIMEWA YOGYAKARTA",
+    "value1": "1.655.174",
+    "value2": "742.481",
+    "kab": [
+      {
+        "name": "ACEH",
+        "value1": "404.188",
+        "value2": "2.400.746"
+      },
+      {
+        "name": "SUMATERA UTARA",
+        "value1": "3.936.515",
+        "value2": "3.587.786"
+      },
+      {
+        "name": "SUMATERA BARAT",
+        "value1": "407.761",
+        "value2": "2.488.733"
+      },
+      {
+        "name": "RIAU",
+        "value1": "1.248.713",
+        "value2": "1.975.287"
+      },
+      {
+        "name": "JAMBI",
+        "value1": "859.833",
+        "value2": "1.203.025"
+      },
+      {
+        "name": "SUMATERA SELATAN",
+        "value1": "1.942.987",
+        "value2": "2.877.781"
+      },
+      {
+        "name": "BENGKULU",
+        "value1": "583.488",
+        "value2": "585.999"
+      },
+      {
+        "name": "LAMPUNG",
+        "value1": "2.853.585",
+        "value2": "1.955.689"
+      },
+      {
+        "name": "KEPULAUAN BANGKA BELITUNG",
+        "value1": "495.729",
+        "value2": "288.235"
+      },
+      {
+        "name": "KEPULAUAN RIAU",
+        "value1": "550.692",
+        "value2": "465.511"
+      },
+      {
+        "name": "DKI JAKARTA",
+        "value1": "3.279.547",
+        "value2": "3.066.137"
+      },
+      {
+        "name": "JAWA BARAT",
+        "value1": "10.750.568",
+        "value2": "16.077.446"
+      },
+      {
+        "name": "JAWA TENGAH",
+        "value1": "16.825.511",
+        "value2": "4.944.447"
+      },
+      {
+        "name": "DAERAH ISTIMEWA YOGYAKARTA",
+        "value1": "1.655.174",
+        "value2": "742.481"
+      },
+      {
+        "name": "JAWA TIMUR",
+        "value1": "16.231.668",
+        "value2": "8.441.247"
+      },
+      {
+        "name": "BANTEN",
+        "value1": "2.537.524",
+        "value2": "4.059.514"
+      },
+      {
+        "name": "BALI",
+        "value1": "2.351.057",
+        "value2": "213.415"
+      },
+      {
+        "name": "NUSA TENGGARA BARAT",
+        "value1": "951.242",
+        "value2": "2.011.319"
+      }
+    ]
+  },
+  {
+    "name": "JAWA TIMUR",
+    "value1": "16.231.668",
+    "value2": "8.441.247",
+    "kab": [
+      {
+        "name": "ACEH",
+        "value1": "404.188",
+        "value2": "2.400.746"
+      },
+      {
+        "name": "SUMATERA UTARA",
+        "value1": "3.936.515",
+        "value2": "3.587.786"
+      },
+      {
+        "name": "SUMATERA BARAT",
+        "value1": "407.761",
+        "value2": "2.488.733"
+      },
+      {
+        "name": "RIAU",
+        "value1": "1.248.713",
+        "value2": "1.975.287"
+      },
+      {
+        "name": "JAMBI",
+        "value1": "859.833",
+        "value2": "1.203.025"
+      },
+      {
+        "name": "SUMATERA SELATAN",
+        "value1": "1.942.987",
+        "value2": "2.877.781"
+      },
+      {
+        "name": "BENGKULU",
+        "value1": "583.488",
+        "value2": "585.999"
+      },
+      {
+        "name": "LAMPUNG",
+        "value1": "2.853.585",
+        "value2": "1.955.689"
+      },
+      {
+        "name": "KEPULAUAN BANGKA BELITUNG",
+        "value1": "495.729",
+        "value2": "288.235"
+      },
+      {
+        "name": "KEPULAUAN RIAU",
+        "value1": "550.692",
+        "value2": "465.511"
+      },
+      {
+        "name": "DKI JAKARTA",
+        "value1": "3.279.547",
+        "value2": "3.066.137"
+      },
+      {
+        "name": "JAWA BARAT",
+        "value1": "10.750.568",
+        "value2": "16.077.446"
+      },
+      {
+        "name": "JAWA TENGAH",
+        "value1": "16.825.511",
+        "value2": "4.944.447"
+      },
+      {
+        "name": "DAERAH ISTIMEWA YOGYAKARTA",
+        "value1": "1.655.174",
+        "value2": "742.481"
+      },
+      {
+        "name": "JAWA TIMUR",
+        "value1": "16.231.668",
+        "value2": "8.441.247"
+      },
+      {
+        "name": "BANTEN",
+        "value1": "2.537.524",
+        "value2": "4.059.514"
+      },
+      {
+        "name": "BALI",
+        "value1": "2.351.057",
+        "value2": "213.415"
+      },
+      {
+        "name": "NUSA TENGGARA BARAT",
+        "value1": "951.242",
+        "value2": "2.011.319"
+      }
+    ]
+  },
+  {
+    "name": "BANTEN",
+    "value1": "2.537.524",
+    "value2": "4.059.514",
+    "kab": [
+      {
+        "name": "ACEH",
+        "value1": "404.188",
+        "value2": "2.400.746"
+      },
+      {
+        "name": "SUMATERA UTARA",
+        "value1": "3.936.515",
+        "value2": "3.587.786"
+      },
+      {
+        "name": "SUMATERA BARAT",
+        "value1": "407.761",
+        "value2": "2.488.733"
+      },
+      {
+        "name": "RIAU",
+        "value1": "1.248.713",
+        "value2": "1.975.287"
+      },
+      {
+        "name": "JAMBI",
+        "value1": "859.833",
+        "value2": "1.203.025"
+      },
+      {
+        "name": "SUMATERA SELATAN",
+        "value1": "1.942.987",
+        "value2": "2.877.781"
+      },
+      {
+        "name": "BENGKULU",
+        "value1": "583.488",
+        "value2": "585.999"
+      },
+      {
+        "name": "LAMPUNG",
+        "value1": "2.853.585",
+        "value2": "1.955.689"
+      },
+      {
+        "name": "KEPULAUAN BANGKA BELITUNG",
+        "value1": "495.729",
+        "value2": "288.235"
+      },
+      {
+        "name": "KEPULAUAN RIAU",
+        "value1": "550.692",
+        "value2": "465.511"
+      },
+      {
+        "name": "DKI JAKARTA",
+        "value1": "3.279.547",
+        "value2": "3.066.137"
+      },
+      {
+        "name": "JAWA BARAT",
+        "value1": "10.750.568",
+        "value2": "16.077.446"
+      },
+      {
+        "name": "JAWA TENGAH",
+        "value1": "16.825.511",
+        "value2": "4.944.447"
+      },
+      {
+        "name": "DAERAH ISTIMEWA YOGYAKARTA",
+        "value1": "1.655.174",
+        "value2": "742.481"
+      },
+      {
+        "name": "JAWA TIMUR",
+        "value1": "16.231.668",
+        "value2": "8.441.247"
+      },
+      {
+        "name": "BANTEN",
+        "value1": "2.537.524",
+        "value2": "4.059.514"
+      },
+      {
+        "name": "BALI",
+        "value1": "2.351.057",
+        "value2": "213.415"
+      },
+      {
+        "name": "NUSA TENGGARA BARAT",
+        "value1": "951.242",
+        "value2": "2.011.319"
+      }
+    ]
+  },
+  {
+    "name": "BALI",
+    "value1": "2.351.057",
+    "value2": "213.415",
+    "kab": [
+      {
+        "name": "ACEH",
+        "value1": "404.188",
+        "value2": "2.400.746"
+      },
+      {
+        "name": "SUMATERA UTARA",
+        "value1": "3.936.515",
+        "value2": "3.587.786"
+      },
+      {
+        "name": "SUMATERA BARAT",
+        "value1": "407.761",
+        "value2": "2.488.733"
+      },
+      {
+        "name": "RIAU",
+        "value1": "1.248.713",
+        "value2": "1.975.287"
+      },
+      {
+        "name": "JAMBI",
+        "value1": "859.833",
+        "value2": "1.203.025"
+      },
+      {
+        "name": "SUMATERA SELATAN",
+        "value1": "1.942.987",
+        "value2": "2.877.781"
+      },
+      {
+        "name": "BENGKULU",
+        "value1": "583.488",
+        "value2": "585.999"
+      },
+      {
+        "name": "LAMPUNG",
+        "value1": "2.853.585",
+        "value2": "1.955.689"
+      },
+      {
+        "name": "KEPULAUAN BANGKA BELITUNG",
+        "value1": "495.729",
+        "value2": "288.235"
+      },
+      {
+        "name": "KEPULAUAN RIAU",
+        "value1": "550.692",
+        "value2": "465.511"
+      },
+      {
+        "name": "DKI JAKARTA",
+        "value1": "3.279.547",
+        "value2": "3.066.137"
+      },
+      {
+        "name": "JAWA BARAT",
+        "value1": "10.750.568",
+        "value2": "16.077.446"
+      },
+      {
+        "name": "JAWA TENGAH",
+        "value1": "16.825.511",
+        "value2": "4.944.447"
+      },
+      {
+        "name": "DAERAH ISTIMEWA YOGYAKARTA",
+        "value1": "1.655.174",
+        "value2": "742.481"
+      },
+      {
+        "name": "JAWA TIMUR",
+        "value1": "16.231.668",
+        "value2": "8.441.247"
+      },
+      {
+        "name": "BANTEN",
+        "value1": "2.537.524",
+        "value2": "4.059.514"
+      },
+      {
+        "name": "BALI",
+        "value1": "2.351.057",
+        "value2": "213.415"
+      },
+      {
+        "name": "NUSA TENGGARA BARAT",
+        "value1": "951.242",
+        "value2": "2.011.319"
+      }
+    ]
+  },
+  {
+    "name": "NUSA TENGGARA BARAT",
+    "value1": "951.242",
+    "value2": "2.011.319",
+    "kab": [
+      {
+        "name": "ACEH",
+        "value1": "404.188",
+        "value2": "2.400.746"
+      },
+      {
+        "name": "SUMATERA UTARA",
+        "value1": "3.936.515",
+        "value2": "3.587.786"
+      },
+      {
+        "name": "SUMATERA BARAT",
+        "value1": "407.761",
+        "value2": "2.488.733"
+      },
+      {
+        "name": "RIAU",
+        "value1": "1.248.713",
+        "value2": "1.975.287"
+      },
+      {
+        "name": "JAMBI",
+        "value1": "859.833",
+        "value2": "1.203.025"
+      },
+      {
+        "name": "SUMATERA SELATAN",
+        "value1": "1.942.987",
+        "value2": "2.877.781"
+      },
+      {
+        "name": "BENGKULU",
+        "value1": "583.488",
+        "value2": "585.999"
+      },
+      {
+        "name": "LAMPUNG",
+        "value1": "2.853.585",
+        "value2": "1.955.689"
+      },
+      {
+        "name": "KEPULAUAN BANGKA BELITUNG",
+        "value1": "495.729",
+        "value2": "288.235"
+      },
+      {
+        "name": "KEPULAUAN RIAU",
+        "value1": "550.692",
+        "value2": "465.511"
+      },
+      {
+        "name": "DKI JAKARTA",
+        "value1": "3.279.547",
+        "value2": "3.066.137"
+      },
+      {
+        "name": "JAWA BARAT",
+        "value1": "10.750.568",
+        "value2": "16.077.446"
+      },
+      {
+        "name": "JAWA TENGAH",
+        "value1": "16.825.511",
+        "value2": "4.944.447"
+      },
+      {
+        "name": "DAERAH ISTIMEWA YOGYAKARTA",
+        "value1": "1.655.174",
+        "value2": "742.481"
+      },
+      {
+        "name": "JAWA TIMUR",
+        "value1": "16.231.668",
+        "value2": "8.441.247"
+      },
+      {
+        "name": "BANTEN",
+        "value1": "2.537.524",
+        "value2": "4.059.514"
+      },
+      {
+        "name": "BALI",
+        "value1": "2.351.057",
+        "value2": "213.415"
+      },
+      {
+        "name": "NUSA TENGGARA BARAT",
+        "value1": "951.242",
+        "value2": "2.011.319"
+      }
+    ]
+  }
+]
