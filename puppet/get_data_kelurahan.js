@@ -56,7 +56,7 @@ async function getDataKelurahan(page) {
                 let urutan = 0
                 for (let itm of dataKel) {
                     // console.log(`simpan data desa kecamatan `.gray, `${kec[pointerKec].name}`.green)
-                    const kelKec = ("" + kec[pointerKec].id + "" + pointerKec + "" + urutan)
+                    const kelKec = ("" + pointerProv + pointerKab + kec[pointerKec].id + "" + pointerKec + "" + urutan)
                     await prisma.kel.upsert({
                         where: {
                             kelKec: kelKec
@@ -72,7 +72,7 @@ async function getDataKelurahan(page) {
                             kecId: kec[pointerKec].id,
                         }
                     })
-                    console.log(`save ${itm.name}`.gray)
+                    console.log(`save ${itm.name}`.gray, itm.value1, itm.value2)
                     urutan++
                 }
 
