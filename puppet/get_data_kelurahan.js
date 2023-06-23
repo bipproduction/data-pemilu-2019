@@ -25,7 +25,7 @@ async function getDataKelurahan(page) {
     await page.goto("https://pemilu2019.kpu.go.id/")
     await new Promise(resolve => setTimeout(resolve, 3000))
 
-    const [buttonProv] = await page.$x(`//button[contains(., '${prov[pointerProv].name}')]`);
+    const [buttonProv] = await page.$x(`//button[contains(., "${prov[pointerProv].name}")]`);
     if (buttonProv) {
         console.log("PROVINSI".gray, `${prov[pointerProv].name}`.cyan)
         await buttonProv.click();
@@ -64,7 +64,7 @@ async function getDataKelurahan(page) {
             return await getDataKelurahan(page)
         }
 
-        const [buttonKab] = await page.$x(`//button[contains(., '${kab[pointerKab].name}')]`);
+        const [buttonKab] = await page.$x(`//button[contains(., "${kab[pointerKab].name}")]`);
         if (buttonKab) {
             console.log("KABUPATEN".gray, `${kab[pointerKab].name}`.cyan)
             await buttonKab.click();
@@ -103,7 +103,7 @@ async function getDataKelurahan(page) {
                 return await getDataKelurahan(page)
             }
 
-            const [buttonKec] = await page.$x(`//button[contains(., '${kec[pointerKec].name}')]`);
+            const [buttonKec] = await page.$x(`//button[contains(., "${kec[pointerKec].name}")]`);
             if (buttonKec) {
                 console.log("KECAMATAN".gray, `${kec[pointerKec].name}`.cyan)
                 console.table({
