@@ -26,11 +26,11 @@ async function getDataKelurahan(page) {
     await page.goto("https://pemilu2019.kpu.go.id/")
     await new Promise(resolve => setTimeout(resolve, 3000))
 
-    const [buttonProv] = await getButton(page, prov[pointerProv].name)
+    const buttonProv = await getButton(page, prov[pointerProv].name)
     // await page.$x(`//button[contains(., "${prov[pointerProv].name}")]`);
     if (buttonProv) {
         console.log("PROVINSI".gray, `${prov[pointerProv].name}`.cyan)
-        await buttonProv.click();
+        // await buttonProv.click();
         await new Promise(resolve => setTimeout(resolve, 1000))
         const kab = await prisma.kab.findMany({
             where: {
@@ -68,11 +68,11 @@ async function getDataKelurahan(page) {
             return await getDataKelurahan(page)
         }
 
-        const [buttonKab] = await getButton(page, kab[pointerKab].name)
+        const buttonKab = await getButton(page, kab[pointerKab].name)
         // await page.$x(`//button[contains(., "${kab[pointerKab].name}")]`);
         if (buttonKab) {
             console.log("KABUPATEN".gray, `${kab[pointerKab].name}`.cyan)
-            await buttonKab.click();
+            // await buttonKab.click();
             await new Promise(resolve => setTimeout(resolve, 1000))
             const kec = await prisma.kec.findMany({
                 where: {
@@ -110,7 +110,7 @@ async function getDataKelurahan(page) {
                 return await getDataKelurahan(page)
             }
 
-            const [buttonKec] = await getButton(page, kec[pointerKec].name)
+            const buttonKec = await getButton(page, kec[pointerKec].name)
             // await page.$x(`//button[contains(., "${kec[pointerKec].name}")]`);
             if (buttonKec) {
                 console.log("KECAMATAN".gray, `${kec[pointerKec].name}`.cyan)
@@ -123,7 +123,7 @@ async function getDataKelurahan(page) {
                     totalKec: kec.length
                 })
 
-                await buttonKec.click();
+                // await buttonKec.click();
                 await new Promise(resolve => setTimeout(resolve, 1000))
                 const dataKel = await getData(page);
 
