@@ -1,6 +1,7 @@
 const { PrismaClient } = require('@prisma/client')
 const getPage = require('./get_page');
 const getData = require('./get_data');
+const getButton = require('./get_button');
 const prisma = new PrismaClient();
 require('colors');
 
@@ -25,7 +26,8 @@ async function getDataKelurahan(page) {
     await page.goto("https://pemilu2019.kpu.go.id/")
     await new Promise(resolve => setTimeout(resolve, 3000))
 
-    const [buttonProv] = await page.$x(`//button[contains(., "${prov[pointerProv].name}")]`);
+    const [buttonProv] = await getButton(page, prov[pointerProv].name)
+    // await page.$x(`//button[contains(., "${prov[pointerProv].name}")]`);
     if (buttonProv) {
         console.log("PROVINSI".gray, `${prov[pointerProv].name}`.cyan)
         await buttonProv.click();
@@ -61,12 +63,13 @@ async function getDataKelurahan(page) {
                 }
             })
 
-            
+
 
             return await getDataKelurahan(page)
         }
 
-        const [buttonKab] = await page.$x(`//button[contains(., "${kab[pointerKab].name}")]`);
+        const [buttonKab] = await getButton(page, kab[pointerKab].name)
+        // await page.$x(`//button[contains(., "${kab[pointerKab].name}")]`);
         if (buttonKab) {
             console.log("KABUPATEN".gray, `${kab[pointerKab].name}`.cyan)
             await buttonKab.click();
@@ -107,7 +110,8 @@ async function getDataKelurahan(page) {
                 return await getDataKelurahan(page)
             }
 
-            const [buttonKec] = await page.$x(`//button[contains(., "${kec[pointerKec].name}")]`);
+            const [buttonKec] = await getButton(page, kec[pointerKec].name)
+            // await page.$x(`//button[contains(., "${kec[pointerKec].name}")]`);
             if (buttonKec) {
                 console.log("KECAMATAN".gray, `${kec[pointerKec].name}`.cyan)
                 console.table({
