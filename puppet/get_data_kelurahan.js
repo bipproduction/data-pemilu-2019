@@ -5,11 +5,11 @@ const prisma = new PrismaClient();
 require('colors');
 
 async function mainGetDataKelurahan() {
-    await prisma.pointer.deleteMany({
-        where: {
-            id: 1
-        }
-    })
+    // await prisma.pointer.deleteMany({
+    //     where: {
+    //         id: 1
+    //     }
+    // })
     const page = await getPage();
     getDataKelurahan(page)
 }
@@ -36,6 +36,34 @@ async function getDataKelurahan(page) {
             }
         })
 
+        if (pointerKab > kab.length - 1) {
+            pointerKab = 0
+            pointerProv++;
+            await prisma.pointer.upsert({
+                where: { id: 1 },
+                create: {
+                    id: 1,
+                    pointerKab: pointerKab
+                },
+                update: {
+                    pointerKab: pointerKab
+                }
+            })
+
+            await prisma.pointer.upsert({
+                where: { id: 1 },
+                create: {
+                    id: 1,
+                    pointerProv: pointerProv
+                },
+                update: {
+                    pointerProv: pointerProv
+                }
+            })
+
+            return await getDataKelurahan(page)
+        }
+
         const [buttonKab] = await page.$x(`//button[contains(., '${kab[pointerKab].name}')]`);
         if (buttonKab) {
             console.log("KABUPATEN".gray, `${kab[pointerKab].name}`.cyan)
@@ -46,6 +74,34 @@ async function getDataKelurahan(page) {
                     kabId: kab[pointerKab].id
                 }
             });
+
+            if (pointerKec > kec.length - 1) {
+                pointerKec = 0
+                pointerKab++;
+                await prisma.pointer.upsert({
+                    where: { id: 1 },
+                    create: {
+                        id: 1,
+                        pointerKec: pointerKec
+                    },
+                    update: {
+                        pointerKec: pointerKec
+                    }
+                })
+
+                await prisma.pointer.upsert({
+                    where: { id: 1 },
+                    create: {
+                        id: 1,
+                        pointerKab: pointerKab
+                    },
+                    update: {
+                        pointerKab: pointerKab
+                    }
+                })
+
+                return await getDataKelurahan(page)
+            }
 
             const [buttonKec] = await page.$x(`//button[contains(., '${kec[pointerKec].name}')]`);
             if (buttonKec) {
