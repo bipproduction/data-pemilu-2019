@@ -1,4 +1,5 @@
 const _ = require('lodash')
+require("colors")
 async function getData(page) {
     await page.waitForSelector('table');
 
@@ -18,8 +19,15 @@ async function getData(page) {
                 const cells = rows[i].querySelectorAll('td');
 
                 const name = cells.length < 0 ? "" : cells[0].innerText.trim().replace(/\s*\([^)]*\)/g, '');
-                const value1 = cells.length < 0 ? "" : cells[1].innerText.trim();
-                const value2 = cells.length < 0 ? "" : cells[2].innerText.trim();
+                let value1 = "0";
+                let value2 = "0"
+
+                try {
+                    value1 = cells.length < 0 ? "" : cells[1].innerText.trim();
+                    value2 = cells.length < 0 ? "" : cells[2].innerText.trim();
+                } catch (error) {
+                    console.log("no data".red)
+                }
 
                 if (name) {
                     result.push({ name, value1, value2 });
