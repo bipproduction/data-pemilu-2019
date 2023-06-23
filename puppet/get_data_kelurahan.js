@@ -16,6 +16,7 @@ async function mainGetDataKelurahan() {
 
 async function getDataKelurahan(page) {
     const pointer = await prisma.pointer.findUnique({ where: { id: 1 } })
+
     let pointerProv = pointer ? pointer.pointerProv : 0
     let pointerKab = pointer ? pointer.pointerKab : 0
     let pointerKec = pointer ? pointer.pointerKec : 0
@@ -49,11 +50,21 @@ async function getDataKelurahan(page) {
             const [buttonKec] = await page.$x(`//button[contains(., '${kec[pointerKec].name}')]`);
             if (buttonKec) {
                 console.log("KECAMATAN".gray, `${kec[pointerKec].name}`.cyan)
+                console.table({
+                    pointerProv: pointerProv,
+                    pointerKab: pointerKab,
+                    pointerKec: pointerKec,
+                    totalProv: prov.length,
+                    totalKab: kab.length,
+                    totalKec: kec.length
+                })
+
                 await buttonKec.click();
                 await new Promise(resolve => setTimeout(resolve, 1000))
                 const dataKel = await getData(page);
 
                 let urutan = 0
+                let result = []
                 for (let itm of dataKel) {
                     // console.log(`simpan data desa kecamatan `.gray, `${kec[pointerKec].name}`.green)
                     const kelKec = ("" + pointerProv + pointerKab + kec[pointerKec].id + "" + pointerKec + "" + urutan)
@@ -72,27 +83,35 @@ async function getDataKelurahan(page) {
                             kecId: kec[pointerKec].id,
                         }
                     })
-                    console.log(`save ${itm.name}`.gray, itm.value1, itm.value2)
+
+                    result.push(itm)
+                    // console.log(`save ${}`.gray, itm.value1, itm.value2)
                     urutan++
                 }
 
+                console.table(result)
+
                 if (pointerKec < kec.length - 1) {
                     pointerKec++
+
                     await prisma.pointer.upsert({
                         where: { id: 1 },
                         create: {
+                            id: 1,
                             pointerKec: pointerKec
                         },
                         update: {
                             pointerKec: pointerKec
                         }
                     })
+
                     return await getDataKelurahan(page)
                 } else {
                     pointerKec = 0
                     await prisma.pointer.upsert({
                         where: { id: 1 },
                         create: {
+                            id: 1,
                             pointerKec: pointerKec
                         },
                         update: {
@@ -109,6 +128,7 @@ async function getDataKelurahan(page) {
                 await prisma.pointer.upsert({
                     where: { id: 1 },
                     create: {
+                        id: 1,
                         pointerKab: pointerKab
                     },
                     update: {
@@ -122,6 +142,7 @@ async function getDataKelurahan(page) {
                 await prisma.pointer.upsert({
                     where: { id: 1 },
                     create: {
+                        id: 1,
                         pointerKab: pointerKab
                     },
                     update: {
@@ -139,6 +160,7 @@ async function getDataKelurahan(page) {
             await prisma.pointer.upsert({
                 where: { id: 1 },
                 create: {
+                    id: 1,
                     pointerProv: pointerProv
                 },
                 update: {
