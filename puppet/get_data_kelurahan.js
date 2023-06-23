@@ -61,6 +61,8 @@ async function getDataKelurahan(page) {
                 }
             })
 
+            
+
             return await getDataKelurahan(page)
         }
 
@@ -99,6 +101,8 @@ async function getDataKelurahan(page) {
                         pointerKab: pointerKab
                     }
                 })
+
+
 
                 return await getDataKelurahan(page)
             }
