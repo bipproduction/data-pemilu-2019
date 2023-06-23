@@ -118,7 +118,7 @@ async function getDataKelurahan(page) {
                             pointerKec: pointerKec
                         }
                     })
-                    return await getDataKelurahan(page)
+                    // return await getDataKelurahan(page)
                 }
             }
 
@@ -149,11 +149,10 @@ async function getDataKelurahan(page) {
                         pointerKab: pointerKab
                     }
                 })
-                return await getDataKelurahan(page)
+                // return await getDataKelurahan(page)
             }
 
         }
-
 
         if (pointerProv < prov.length - 1) {
             pointerProv++
