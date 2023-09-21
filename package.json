@@ -5,6 +5,7 @@
     "colors": "^1.4.0",
     "lodash": "^4.17.21",
     "node-notifier": "^10.0.1",
+    "prompts": "^2.4.2",
     "puppeteer": "^20.7.2",
     "yargs": "^17.7.2"
   },

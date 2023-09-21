@@ -237,7 +237,6 @@ async function getDataKelurahan(page) {
         return  await getDataKelurahan(page)
     }
 
-    console.log("SELESAI".green)
     return;
 }
 
