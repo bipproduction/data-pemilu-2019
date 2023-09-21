@@ -2,4 +2,6 @@
 
 ## Metode Pengambilan Data Pemilu 2019
 
-### mulai
+### mulai\
+
+data ada di puppet data-pemilu.js

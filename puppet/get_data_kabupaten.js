@@ -17,12 +17,12 @@ async function mainGetDataKabupaten() {
 
     const page = await getPage();
 
-    notifier.notify({
-        icon: 'icon.png',
-        title: 'Cari Data Kabupaten',
-        message: 'tunggu sampai proses selesai',
-        sound: true,
-    });
+    // notifier.notify({
+    //     icon: 'icon.png',
+    //     title: 'Cari Data Kabupaten',
+    //     message: 'tunggu sampai proses selesai',
+    //     sound: true,
+    // });
     getDataKabupaten(page)
 }
 async function getDataKabupaten(page) {
@@ -106,16 +106,11 @@ async function getDataKabupaten(page) {
         }
     } else {
         console.log("error button not found".red)
-        return
+        return await getDataKabupaten(page)
     }
 
+    console.log("DATA COMPLETED".green)
     page.close()
-    notifier.notify({
-        icon: 'icon.png',
-        title: 'Data Kabupaten',
-        message: 'Selesai',
-        sound: true
-    });
 
 }
 

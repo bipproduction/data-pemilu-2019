@@ -63,7 +63,7 @@ async function getDataKecamatan(page) {
         // temukan tombol kabupaten
         // const [buttonKab] = await page.$x(`//button[contains(., '${dataKab[pointerKab].name}')]`);
 
-
+        if (!dataKab[pointerKab] || !dataKab[pointerKab].name) return console.log("cek nama kabupaten".red)
         const buttonKab = await getButton(page, dataKab[pointerKab].name)
         console.log("KABUPATEN".gray, `${dataKab[pointerKab].name}`.cyan)
 
@@ -181,7 +181,7 @@ async function getDataKecamatan(page) {
     } else {
         // berhenti karena tombol tidak ditemukan (lakukan evaluasi)
         console.log("error button not found".red)
-        return
+        return getDataKecamatan(page)
     }
 
 }

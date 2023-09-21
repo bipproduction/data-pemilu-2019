@@ -234,8 +234,11 @@ async function getDataKelurahan(page) {
         }
     } else {
         console.log("error button not found".red)
+        return  await getDataKelurahan(page)
     }
 
+    console.log("SELESAI".green)
+    return;
 }
 
 module.exports = mainGetDataKelurahan
